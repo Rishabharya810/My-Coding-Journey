@@ -1,0 +1,6 @@
+Region,Store,Date,ProductCategory,UnitsSold,UnitPrice,Revenue
+North,Store_12,2020-06-28,Home & Kitchen,6,341.7,2050.2
+West,Store_10,2020-07-05,Sports,6,262.05,1572.3000000000002
+South,Store_4,2020-10-21,Toys,10,359.36,3593.6000000000004
+North,Store_15,2020-06-12,Sports,19,352.82,6703.58
+West,Store_1,2021-01-29,Clothing,19,493.96,9385.24

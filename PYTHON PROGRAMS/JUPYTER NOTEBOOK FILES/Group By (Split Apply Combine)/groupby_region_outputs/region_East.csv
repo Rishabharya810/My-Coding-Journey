@@ -1,0 +1,2409 @@
+Region,Store,Date,ProductCategory,UnitsSold,UnitPrice,Revenue
+East,Store_7,2020-08-30,Sports,6,37.1,222.6
+East,Store_14,2020-08-15,Clothing,11,433.71,4770.81
+East,Store_15,2020-10-05,Clothing,8,383.92,3071.36
+East,Store_6,2020-09-09,Home & Kitchen,10,333.84,3338.4
+East,Store_5,2021-08-17,Toys,7,17.5,122.5
+East,Store_8,2020-06-12,Sports,19,337.89,6419.91
+East,Store_8,2021-01-21,Electronics,16,287.02,4592.32
+East,Store_3,2021-03-16,Home & Kitchen,12,60.6,727.2
+East,Store_7,2020-11-30,Sports,3,439.96,1319.88
+East,Store_2,2020-10-04,Home & Kitchen,5,59.98,299.9
+East,Store_1,2021-12-20,Toys,19,204.79,3891.01
+East,Store_3,2021-04-29,Electronics,16,419.33,6709.28
+East,Store_7,2021-06-05,Clothing,4,207.49,829.96
+East,Store_3,2020-06-01,Clothing,19,21.93,416.67
+East,Store_2,2020-07-20,Sports,15,83.16,1247.4
+East,Store_8,2020-10-25,Home & Kitchen,1,21.44,21.44
+East,Store_9,2020-03-26,Clothing,5,473.25,2366.25
+East,Store_9,2020-07-03,Sports,2,47.1,94.2
+East,Store_2,2021-12-12,Clothing,3,318.91,956.73
+East,Store_18,2020-06-28,Toys,19,17.55,333.45
+East,Store_20,2021-07-11,Clothing,9,139.52,1255.68
+East,Store_2,2020-10-12,Home & Kitchen,12,366.64,4399.68
+East,Store_9,2020-10-13,Clothing,5,135.18,675.9000000000001
+East,Store_13,2020-06-19,Clothing,8,277.68,2221.44
+East,Store_16,2021-04-01,Clothing,11,344.82,3793.02
+East,Store_20,2020-01-19,Sports,15,250.54,3758.1
+East,Store_13,2021-01-22,Sports,5,128.19,640.95
+East,Store_14,2021-02-08,Home & Kitchen,15,320.36,4805.400000000001
+East,Store_6,2021-09-26,Electronics,16,361.02,5776.32
+East,Store_7,2020-08-23,Sports,14,451.21,6316.94
+East,Store_10,2020-06-17,Home & Kitchen,7,74.67,522.69
+East,Store_11,2020-11-20,Electronics,19,57.58,1094.02
+East,Store_14,2020-02-11,Toys,1,128.02,128.02
+East,Store_10,2020-04-15,Electronics,10,73.54,735.4000000000001
+East,Store_20,2020-05-20,Toys,13,488.54,6351.02
+East,Store_5,2020-01-19,Clothing,15,170.75,2561.25
+East,Store_9,2021-12-23,Sports,5,319.87,1599.35
+East,Store_18,2021-02-27,Toys,5,275.52,1377.6
+East,Store_8,2021-01-08,Home & Kitchen,11,173.94,1913.34
+East,Store_11,2020-06-09,Toys,3,43.47,130.41
+East,Store_10,2021-09-02,Home & Kitchen,16,153.51,2456.16
+East,Store_19,2021-03-11,Sports,18,309.2,5565.599999999999
+East,Store_7,2020-05-25,Home & Kitchen,9,259.01,2331.09
+East,Store_12,2021-09-04,Sports,10,489.49,4894.9
+East,Store_9,2021-01-04,Toys,10,104.99,1049.9
+East,Store_20,2021-02-07,Toys,6,272.6,1635.6
+East,Store_3,2020-10-31,Clothing,15,495.6,7434.0
+East,Store_1,2021-05-25,Toys,16,137.12,2193.92
+East,Store_16,2021-06-06,Toys,3,334.7,1004.1
+East,Store_13,2021-01-27,Sports,5,179.41,897.05
+East,Store_18,2021-12-21,Electronics,9,421.34,3792.06
+East,Store_16,2020-12-16,Sports,7,44.77,313.39000000000004
+East,Store_3,2020-01-11,Toys,17,42.92,729.64
+East,Store_4,2021-09-16,Sports,17,455.22,7738.740000000001
+East,Store_6,2021-12-06,Electronics,4,368.64,1474.56
+East,Store_15,2021-03-08,Sports,12,228.99,2747.88
+East,Store_10,2020-01-17,Electronics,8,101.58,812.64
+East,Store_5,2020-08-07,Sports,15,403.97,6059.55
+East,Store_13,2020-08-11,Sports,16,41.48,663.68
+East,Store_3,2020-05-16,Home & Kitchen,3,99.25,297.75
+East,Store_18,2020-05-05,Clothing,7,241.36,1689.52
+East,Store_5,2020-12-13,Clothing,1,132.02,132.02
+East,Store_12,2021-09-04,Toys,2,123.72,247.44
+East,Store_15,2021-06-21,Toys,4,427.12,1708.48
+East,Store_20,2021-01-25,Electronics,4,42.26,169.04
+East,Store_13,2021-06-01,Toys,10,416.59,4165.9
+East,Store_15,2021-04-24,Sports,9,166.58,1499.22
+East,Store_6,2020-03-31,Electronics,11,271.31,2984.41
+East,Store_9,2021-04-01,Clothing,19,499.57,9491.83
+East,Store_1,2020-12-31,Toys,4,397.14,1588.56
+East,Store_10,2021-06-21,Home & Kitchen,5,456.56,2282.8
+East,Store_18,2021-06-17,Electronics,13,458.66,5962.58
+East,Store_20,2020-01-11,Electronics,15,239.03,3585.45
+East,Store_10,2020-03-11,Clothing,16,59.76,956.16
+East,Store_19,2020-03-10,Toys,8,75.89,607.12
+East,Store_3,2020-06-22,Home & Kitchen,11,247.41,2721.51
+East,Store_8,2020-05-03,Sports,10,439.41,4394.1
+East,Store_2,2020-06-29,Clothing,10,147.18,1471.8000000000002
+East,Store_3,2020-06-20,Home & Kitchen,2,144.06,288.12
+East,Store_8,2020-08-11,Toys,8,78.71,629.68
+East,Store_1,2020-07-07,Clothing,8,98.57,788.56
+East,Store_9,2021-04-07,Toys,14,179.83,2517.6200000000003
+East,Store_18,2020-04-29,Sports,5,127.81,639.05
+East,Store_15,2021-10-17,Clothing,13,26.49,344.37
+East,Store_2,2020-09-29,Sports,12,315.24,3782.88
+East,Store_18,2020-08-28,Sports,14,302.28,4231.92
+East,Store_12,2021-06-25,Clothing,11,189.09,2079.99
+East,Store_9,2020-12-22,Electronics,4,443.92,1775.68
+East,Store_16,2020-07-12,Toys,15,368.62,5529.3
+East,Store_9,2021-01-07,Toys,11,455.55,5011.05
+East,Store_12,2021-04-01,Sports,1,221.05,221.05
+East,Store_18,2020-02-25,Home & Kitchen,8,436.45,3491.6
+East,Store_6,2021-06-23,Electronics,9,19.21,172.89
+East,Store_17,2020-09-11,Sports,6,488.82,2932.92
+East,Store_18,2021-02-11,Clothing,5,122.24,611.1999999999999
+East,Store_2,2021-05-28,Sports,3,414.1,1242.3000000000002
+East,Store_7,2021-11-09,Home & Kitchen,8,295.17,2361.36
+East,Store_4,2020-04-20,Toys,14,12.91,180.74
+East,Store_12,2020-03-13,Sports,5,305.26,1526.3
+East,Store_15,2021-10-06,Sports,15,321.75,4826.25
+East,Store_6,2020-09-20,Sports,2,462.76,925.52
+East,Store_15,2021-04-04,Toys,11,376.01,4136.11
+East,Store_19,2021-12-08,Toys,14,301.97,4227.58
+East,Store_8,2021-12-07,Clothing,3,42.16,126.48
+East,Store_10,2021-04-08,Electronics,9,451.45,4063.05
+East,Store_18,2020-05-17,Electronics,15,263.69,3955.35
+East,Store_7,2020-06-30,Toys,13,44.26,575.38
+East,Store_12,2021-02-02,Home & Kitchen,9,302.72,2724.4800000000005
+East,Store_13,2020-09-12,Toys,18,355.01,6390.18
+East,Store_10,2021-04-11,Home & Kitchen,13,431.24,5606.12
+East,Store_5,2020-06-22,Home & Kitchen,11,147.17,1618.87
+East,Store_14,2020-02-03,Sports,4,449.35,1797.4
+East,Store_6,2021-03-03,Clothing,2,323.87,647.74
+East,Store_10,2021-03-12,Toys,12,485.09,5821.08
+East,Store_18,2021-01-08,Clothing,2,44.97,89.94
+East,Store_11,2020-08-03,Home & Kitchen,8,240.79,1926.32
+East,Store_14,2020-07-31,Sports,1,389.04,389.04
+East,Store_16,2021-07-01,Clothing,1,343.98,343.98
+East,Store_13,2020-09-09,Electronics,6,227.05,1362.3000000000002
+East,Store_2,2021-05-15,Home & Kitchen,10,311.13,3111.3
+East,Store_6,2021-12-28,Sports,11,28.31,311.41
+East,Store_16,2020-02-09,Home & Kitchen,17,41.74,709.58
+East,Store_14,2021-05-21,Electronics,12,113.83,1365.96
+East,Store_4,2021-05-28,Home & Kitchen,9,387.36,3486.24
+East,Store_16,2021-12-24,Sports,19,399.38,7588.22
+East,Store_8,2020-01-23,Toys,14,391.84,5485.759999999999
+East,Store_20,2020-04-28,Clothing,19,73.29,1392.5100000000002
+East,Store_11,2021-06-06,Electronics,13,120.05,1560.65
+East,Store_11,2020-02-15,Home & Kitchen,5,190.37,951.85
+East,Store_20,2021-10-24,Sports,15,116.24,1743.6
+East,Store_2,2020-04-03,Clothing,6,129.24,775.44
+East,Store_6,2021-12-29,Toys,14,422.0,5908.0
+East,Store_2,2021-10-13,Electronics,14,109.69,1535.66
+East,Store_11,2021-11-13,Home & Kitchen,4,16.43,65.72
+East,Store_17,2020-01-03,Home & Kitchen,19,33.99,645.8100000000001
+East,Store_13,2020-01-21,Toys,5,124.65,623.25
+East,Store_18,2020-04-19,Toys,8,91.65,733.2
+East,Store_7,2020-10-18,Sports,7,65.39,457.73
+East,Store_9,2021-04-04,Electronics,5,308.95,1544.75
+East,Store_8,2020-12-06,Sports,11,99.61,1095.71
+East,Store_18,2021-12-02,Electronics,1,46.61,46.61
+East,Store_10,2021-08-20,Home & Kitchen,12,461.8,5541.6
+East,Store_17,2021-06-20,Clothing,17,320.41,5446.97
+East,Store_12,2021-06-12,Clothing,6,481.99,2891.94
+East,Store_12,2020-11-06,Sports,9,49.31,443.79
+East,Store_1,2020-09-23,Clothing,19,195.05,3705.95
+East,Store_15,2021-09-25,Clothing,15,340.58,5108.7
+East,Store_17,2020-08-20,Electronics,11,12.98,142.78
+East,Store_7,2020-06-09,Sports,18,218.12,3926.16
+East,Store_6,2021-10-18,Clothing,14,461.22,6457.08
+East,Store_9,2021-05-12,Clothing,15,113.39,1700.85
+East,Store_17,2021-05-17,Clothing,10,298.36,2983.6000000000004
+East,Store_14,2021-06-30,Clothing,2,74.15,148.3
+East,Store_20,2020-05-23,Home & Kitchen,17,249.92,4248.639999999999
+East,Store_6,2020-11-05,Electronics,4,484.91,1939.64
+East,Store_8,2020-06-23,Toys,7,105.1,735.6999999999999
+East,Store_13,2021-04-26,Clothing,2,450.98,901.96
+East,Store_12,2020-05-20,Home & Kitchen,15,331.53,4972.95
+East,Store_7,2020-06-18,Clothing,12,27.51,330.12
+East,Store_8,2020-01-11,Home & Kitchen,10,95.84,958.4
+East,Store_18,2020-10-09,Sports,11,253.51,2788.61
+East,Store_10,2021-10-23,Sports,2,300.61,601.22
+East,Store_3,2020-05-31,Sports,5,224.38,1121.9
+East,Store_17,2021-04-08,Home & Kitchen,3,98.18,294.54
+East,Store_13,2020-02-18,Toys,10,420.4,4204.0
+East,Store_1,2020-12-08,Clothing,1,103.18,103.18
+East,Store_17,2021-12-02,Sports,1,323.17,323.17
+East,Store_17,2020-01-13,Home & Kitchen,13,450.32,5854.16
+East,Store_18,2020-03-18,Sports,13,109.96,1429.48
+East,Store_3,2021-07-24,Home & Kitchen,5,236.92,1184.6
+East,Store_18,2021-11-23,Clothing,6,89.16,534.96
+East,Store_12,2020-12-02,Toys,12,381.89,4582.68
+East,Store_11,2021-06-04,Toys,13,104.24,1355.12
+East,Store_10,2020-02-24,Electronics,4,286.4,1145.6
+East,Store_13,2020-06-08,Home & Kitchen,16,284.79,4556.64
+East,Store_1,2021-01-03,Clothing,9,20.88,187.92
+East,Store_12,2020-06-09,Toys,6,132.28,793.6800000000001
+East,Store_13,2021-01-14,Clothing,17,18.22,309.74
+East,Store_20,2020-08-11,Home & Kitchen,19,98.15,1864.85
+East,Store_15,2021-06-25,Home & Kitchen,3,362.95,1088.85
+East,Store_16,2021-04-09,Home & Kitchen,4,266.38,1065.52
+East,Store_4,2021-11-22,Toys,11,436.42,4800.62
+East,Store_2,2020-12-28,Clothing,14,70.52,987.28
+East,Store_4,2020-02-07,Electronics,14,91.25,1277.5
+East,Store_7,2021-12-05,Toys,7,428.67,3000.69
+East,Store_13,2021-06-21,Toys,18,313.72,5646.960000000001
+East,Store_17,2020-05-24,Sports,16,273.73,4379.68
+East,Store_13,2021-06-01,Sports,10,186.02,1860.2
+East,Store_7,2021-11-16,Home & Kitchen,8,333.33,2666.64
+East,Store_5,2021-04-14,Electronics,15,470.18,7052.7
+East,Store_20,2021-11-25,Toys,13,294.02,3822.26
+East,Store_8,2020-12-23,Electronics,6,8.58,51.48
+East,Store_7,2021-10-10,Sports,12,29.18,350.16
+East,Store_4,2021-10-18,Electronics,5,81.96,409.8
+East,Store_19,2020-10-13,Electronics,5,358.25,1791.25
+East,Store_1,2021-11-22,Clothing,17,416.96,7088.32
+East,Store_4,2021-06-26,Toys,5,277.75,1388.75
+East,Store_10,2021-07-31,Sports,2,396.83,793.66
+East,Store_1,2021-12-10,Home & Kitchen,12,92.24,1106.88
+East,Store_18,2020-10-17,Clothing,3,455.22,1365.66
+East,Store_6,2020-02-24,Clothing,3,276.27,828.81
+East,Store_2,2021-08-25,Electronics,8,137.67,1101.36
+East,Store_12,2020-10-16,Home & Kitchen,5,29.61,148.05
+East,Store_14,2020-09-21,Sports,1,412.6,412.6
+East,Store_12,2020-07-06,Sports,10,497.36,4973.6
+East,Store_16,2021-12-11,Clothing,6,255.5,1533.0
+East,Store_11,2021-09-12,Sports,14,310.94,4353.16
+East,Store_18,2020-04-28,Home & Kitchen,4,376.85,1507.4
+East,Store_5,2020-11-20,Electronics,10,122.22,1222.2
+East,Store_17,2020-07-15,Home & Kitchen,13,279.29,3630.77
+East,Store_8,2021-05-11,Electronics,19,311.35,5915.650000000001
+East,Store_13,2021-12-10,Toys,14,416.14,5825.96
+East,Store_17,2021-03-13,Home & Kitchen,12,394.92,4739.04
+East,Store_13,2021-11-25,Electronics,1,418.05,418.05
+East,Store_17,2020-12-12,Clothing,17,124.73,2120.41
+East,Store_19,2020-04-05,Sports,2,344.89,689.78
+East,Store_11,2021-04-27,Clothing,12,85.78,1029.36
+East,Store_12,2020-05-22,Toys,3,452.0,1356.0
+East,Store_16,2020-05-15,Home & Kitchen,14,390.08,5461.12
+East,Store_13,2021-01-14,Electronics,16,320.78,5132.48
+East,Store_3,2020-10-01,Sports,13,207.89,2702.57
+East,Store_4,2020-07-22,Toys,2,371.93,743.86
+East,Store_15,2021-04-29,Home & Kitchen,2,32.27,64.54
+East,Store_18,2020-01-27,Home & Kitchen,15,188.7,2830.5
+East,Store_5,2021-04-18,Electronics,13,242.02,3146.26
+East,Store_14,2020-10-15,Electronics,17,375.11,6376.87
+East,Store_8,2020-02-27,Sports,16,420.96,6735.36
+East,Store_12,2020-09-17,Clothing,10,62.93,629.3
+East,Store_15,2021-08-04,Home & Kitchen,17,139.38,2369.46
+East,Store_14,2020-01-18,Electronics,19,254.76,4840.44
+East,Store_14,2021-10-03,Home & Kitchen,7,47.11,329.77
+East,Store_18,2020-11-08,Sports,11,356.6,3922.6
+East,Store_9,2021-01-19,Clothing,9,88.57,797.1299999999999
+East,Store_8,2021-01-12,Sports,1,233.95,233.95
+East,Store_2,2021-07-10,Electronics,10,46.02,460.2000000000001
+East,Store_3,2021-12-17,Sports,4,238.61,954.44
+East,Store_19,2020-05-02,Electronics,13,65.77,855.01
+East,Store_20,2021-03-07,Clothing,7,374.9,2624.3
+East,Store_4,2020-11-25,Toys,11,28.5,313.5
+East,Store_7,2021-04-21,Clothing,12,126.59,1519.08
+East,Store_1,2020-07-17,Sports,5,86.69,433.45
+East,Store_15,2020-12-09,Sports,3,457.46,1372.38
+East,Store_8,2021-03-05,Clothing,2,300.02,600.04
+East,Store_12,2021-12-20,Toys,5,63.69,318.45
+East,Store_15,2020-08-11,Toys,13,326.03,4238.389999999999
+East,Store_6,2021-01-26,Electronics,8,106.43,851.44
+East,Store_3,2021-09-13,Electronics,3,18.37,55.11
+East,Store_3,2021-06-05,Electronics,19,69.07,1312.33
+East,Store_2,2021-11-08,Sports,9,20.54,184.86
+East,Store_20,2021-07-01,Home & Kitchen,6,237.45,1424.6999999999998
+East,Store_10,2020-05-26,Electronics,1,12.89,12.89
+East,Store_20,2020-06-21,Toys,5,136.34,681.7
+East,Store_5,2020-10-07,Home & Kitchen,3,31.15,93.45
+East,Store_8,2020-10-27,Electronics,12,321.94,3863.28
+East,Store_12,2021-06-19,Toys,11,152.8,1680.8000000000002
+East,Store_17,2020-08-16,Home & Kitchen,6,32.24,193.44
+East,Store_12,2021-11-29,Sports,17,461.55,7846.35
+East,Store_18,2020-09-16,Electronics,12,496.32,5955.84
+East,Store_2,2020-11-03,Sports,17,291.97,4963.490000000001
+East,Store_20,2021-10-05,Electronics,18,440.49,7928.82
+East,Store_12,2020-10-13,Clothing,8,272.05,2176.4
+East,Store_19,2021-05-01,Toys,16,117.28,1876.48
+East,Store_17,2020-06-08,Clothing,11,122.13,1343.4299999999998
+East,Store_6,2020-06-24,Home & Kitchen,12,286.68,3440.16
+East,Store_7,2020-03-04,Home & Kitchen,10,448.05,4480.5
+East,Store_3,2020-11-07,Sports,12,241.75,2901.0
+East,Store_13,2021-05-01,Home & Kitchen,11,278.06,3058.66
+East,Store_10,2021-11-12,Clothing,12,365.05,4380.6
+East,Store_19,2020-07-24,Home & Kitchen,6,273.67,1642.02
+East,Store_19,2021-05-22,Clothing,8,290.92,2327.36
+East,Store_6,2021-12-14,Electronics,4,451.84,1807.36
+East,Store_20,2021-10-23,Clothing,1,347.17,347.17
+East,Store_4,2020-08-30,Toys,9,42.29,380.61
+East,Store_14,2020-07-19,Toys,4,243.39,973.56
+East,Store_15,2020-06-17,Clothing,4,489.31,1957.24
+East,Store_14,2021-01-08,Electronics,8,268.74,2149.92
+East,Store_8,2020-12-02,Clothing,14,156.71,2193.94
+East,Store_16,2020-06-02,Toys,15,64.57,968.55
+East,Store_2,2021-06-25,Electronics,9,426.89,3842.01
+East,Store_12,2021-12-14,Sports,4,410.84,1643.36
+East,Store_14,2021-08-07,Clothing,7,182.41,1276.87
+East,Store_15,2021-07-14,Sports,11,475.51,5230.61
+East,Store_4,2020-03-06,Toys,10,12.48,124.8
+East,Store_4,2020-11-18,Clothing,13,126.48,1644.24
+East,Store_1,2021-12-19,Electronics,12,66.06,792.72
+East,Store_18,2021-04-15,Home & Kitchen,11,343.26,3775.86
+East,Store_7,2020-09-05,Toys,18,365.49,6578.82
+East,Store_9,2020-09-29,Toys,7,68.75,481.25
+East,Store_2,2021-09-25,Sports,8,184.44,1475.52
+East,Store_6,2021-10-13,Electronics,14,37.41,523.74
+East,Store_2,2021-07-12,Clothing,10,483.76,4837.6
+East,Store_20,2021-05-22,Home & Kitchen,10,427.12,4271.2
+East,Store_2,2020-09-13,Sports,12,229.66,2755.92
+East,Store_15,2020-01-08,Clothing,4,110.01,440.04
+East,Store_7,2020-10-07,Clothing,10,35.99,359.90000000000003
+East,Store_4,2020-01-07,Home & Kitchen,1,159.54,159.54
+East,Store_13,2020-03-31,Clothing,10,90.86,908.6
+East,Store_12,2020-07-23,Home & Kitchen,11,484.49,5329.39
+East,Store_9,2020-04-05,Toys,17,55.33,940.61
+East,Store_5,2021-12-28,Electronics,15,19.25,288.75
+East,Store_4,2020-08-28,Electronics,1,316.99,316.99
+East,Store_4,2020-06-23,Toys,3,142.06,426.18
+East,Store_10,2021-06-05,Home & Kitchen,18,171.15,3080.7000000000003
+East,Store_6,2021-03-25,Electronics,4,489.97,1959.88
+East,Store_16,2020-06-04,Home & Kitchen,17,175.52,2983.84
+East,Store_18,2021-03-04,Toys,11,494.71,5441.81
+East,Store_13,2020-04-25,Electronics,2,265.8,531.6
+East,Store_11,2021-09-06,Clothing,3,68.51,205.53000000000003
+East,Store_13,2021-12-17,Electronics,5,327.69,1638.45
+East,Store_14,2021-04-21,Electronics,18,398.03,7164.539999999999
+East,Store_3,2020-10-19,Electronics,19,29.37,558.03
+East,Store_9,2021-06-14,Electronics,2,127.37,254.74
+East,Store_5,2021-11-09,Electronics,18,209.89,3778.02
+East,Store_9,2020-02-15,Sports,8,324.63,2597.04
+East,Store_13,2020-09-17,Home & Kitchen,5,226.24,1131.2
+East,Store_5,2020-10-18,Clothing,13,347.27,4514.51
+East,Store_7,2020-06-28,Clothing,1,102.77,102.77
+East,Store_9,2020-06-29,Sports,17,333.37,5667.29
+East,Store_12,2021-10-29,Home & Kitchen,7,79.98,559.86
+East,Store_8,2021-10-27,Home & Kitchen,2,61.88,123.76
+East,Store_15,2020-01-05,Toys,5,466.81,2334.05
+East,Store_9,2021-05-17,Toys,1,9.19,9.19
+East,Store_16,2020-03-30,Electronics,7,90.62,634.34
+East,Store_20,2021-10-11,Sports,5,123.5,617.5
+East,Store_15,2021-10-14,Home & Kitchen,4,161.74,646.96
+East,Store_12,2021-05-21,Home & Kitchen,12,410.33,4923.96
+East,Store_11,2021-08-03,Home & Kitchen,5,484.91,2424.55
+East,Store_10,2020-08-25,Toys,4,13.8,55.2
+East,Store_4,2021-04-20,Toys,11,247.59,2723.49
+East,Store_3,2021-03-28,Home & Kitchen,17,91.14,1549.38
+East,Store_9,2021-03-10,Sports,16,337.45,5399.2
+East,Store_5,2020-10-31,Sports,18,79.96,1439.28
+East,Store_11,2021-09-09,Clothing,17,232.81,3957.77
+East,Store_5,2021-06-21,Toys,19,234.33,4452.27
+East,Store_15,2021-02-21,Sports,8,111.99,895.92
+East,Store_2,2020-03-17,Electronics,1,297.7,297.7
+East,Store_20,2020-03-27,Clothing,5,355.95,1779.75
+East,Store_20,2020-09-23,Toys,19,412.27,7833.129999999999
+East,Store_18,2020-11-23,Clothing,13,42.55,553.15
+East,Store_8,2020-09-23,Sports,17,350.83,5964.11
+East,Store_12,2021-08-22,Home & Kitchen,2,176.16,352.32
+East,Store_3,2020-08-25,Sports,1,328.59,328.59
+East,Store_3,2021-09-11,Electronics,10,306.42,3064.2000000000003
+East,Store_20,2021-11-15,Toys,6,493.06,2958.36
+East,Store_1,2020-02-23,Sports,3,217.78,653.34
+East,Store_11,2020-09-28,Toys,10,86.04,860.4000000000001
+East,Store_5,2021-04-24,Toys,6,8.57,51.42
+East,Store_12,2021-03-08,Electronics,7,43.19,302.33
+East,Store_10,2020-11-27,Electronics,13,188.1,2445.3
+East,Store_17,2020-02-16,Home & Kitchen,17,360.88,6134.96
+East,Store_7,2021-12-30,Clothing,19,411.22,7813.18
+East,Store_16,2021-07-28,Sports,1,393.27,393.27
+East,Store_8,2020-05-16,Home & Kitchen,11,100.2,1102.2
+East,Store_15,2021-03-10,Electronics,8,184.43,1475.44
+East,Store_6,2020-02-15,Toys,1,377.52,377.52
+East,Store_15,2021-04-01,Clothing,5,51.42,257.1
+East,Store_6,2020-05-25,Electronics,14,496.12,6945.68
+East,Store_20,2020-06-09,Electronics,14,480.21,6722.94
+East,Store_8,2020-09-28,Home & Kitchen,15,264.76,3971.4
+East,Store_2,2021-08-17,Toys,8,369.89,2959.12
+East,Store_8,2021-10-23,Clothing,10,274.09,2740.9
+East,Store_1,2021-09-18,Clothing,11,31.47,346.17
+East,Store_14,2021-01-15,Electronics,17,220.87,3754.79
+East,Store_3,2020-02-18,Electronics,12,220.92,2651.04
+East,Store_19,2021-08-11,Toys,18,86.55,1557.9
+East,Store_18,2021-02-11,Home & Kitchen,3,348.04,1044.12
+East,Store_3,2021-02-20,Clothing,6,16.94,101.64
+East,Store_5,2020-02-06,Toys,16,186.55,2984.8
+East,Store_6,2020-10-25,Electronics,1,161.19,161.19
+East,Store_12,2021-03-12,Sports,19,170.3,3235.7000000000003
+East,Store_11,2021-12-21,Sports,7,415.54,2908.78
+East,Store_9,2020-02-11,Clothing,9,340.29,3062.61
+East,Store_4,2020-11-02,Sports,15,82.82,1242.3
+East,Store_1,2020-06-09,Sports,12,319.15,3829.8
+East,Store_5,2021-09-19,Toys,18,102.64,1847.52
+East,Store_15,2020-09-18,Electronics,17,33.2,564.4000000000001
+East,Store_9,2021-05-17,Home & Kitchen,18,473.14,8516.52
+East,Store_19,2021-10-19,Toys,13,286.67,3726.71
+East,Store_14,2021-12-04,Sports,12,253.74,3044.88
+East,Store_19,2021-11-27,Electronics,6,331.94,1991.64
+East,Store_8,2021-02-07,Clothing,7,479.24,3354.6800000000003
+East,Store_12,2020-12-16,Electronics,13,170.32,2214.16
+East,Store_9,2020-06-16,Toys,18,298.05,5364.900000000001
+East,Store_19,2021-04-30,Electronics,16,91.42,1462.72
+East,Store_2,2021-05-05,Sports,17,415.04,7055.68
+East,Store_16,2021-09-18,Home & Kitchen,1,389.17,389.17
+East,Store_4,2020-05-27,Home & Kitchen,13,123.95,1611.35
+East,Store_8,2021-07-24,Sports,6,183.64,1101.84
+East,Store_10,2020-03-25,Toys,19,463.37,8804.03
+East,Store_10,2021-04-17,Toys,1,264.25,264.25
+East,Store_8,2021-04-27,Home & Kitchen,15,122.04,1830.6
+East,Store_14,2021-11-02,Clothing,2,392.14,784.28
+East,Store_7,2020-04-04,Toys,13,229.13,2978.69
+East,Store_7,2020-10-27,Clothing,12,358.1,4297.200000000001
+East,Store_18,2020-01-23,Clothing,18,167.54,3015.72
+East,Store_12,2020-04-29,Electronics,8,359.41,2875.28
+East,Store_10,2020-09-13,Home & Kitchen,13,468.67,6092.71
+East,Store_15,2020-01-17,Home & Kitchen,15,174.33,2614.9500000000003
+East,Store_12,2021-09-21,Electronics,10,60.65,606.5
+East,Store_3,2021-05-18,Home & Kitchen,7,146.16,1023.12
+East,Store_10,2020-09-13,Toys,16,117.19,1875.04
+East,Store_15,2021-01-21,Electronics,18,236.67,4260.06
+East,Store_20,2021-05-17,Clothing,8,75.62,604.96
+East,Store_2,2020-10-11,Electronics,5,231.53,1157.65
+East,Store_8,2021-03-22,Sports,16,413.18,6610.88
+East,Store_4,2021-12-15,Home & Kitchen,6,442.56,2655.36
+East,Store_7,2020-02-08,Clothing,3,371.0,1113.0
+East,Store_15,2021-04-17,Electronics,3,113.46,340.38
+East,Store_9,2020-02-17,Toys,16,27.74,443.84
+East,Store_12,2020-12-07,Electronics,11,72.32,795.52
+East,Store_17,2021-08-18,Sports,14,13.55,189.7
+East,Store_10,2020-07-11,Toys,16,89.02,1424.32
+East,Store_8,2020-04-09,Clothing,10,255.66,2556.6
+East,Store_19,2021-03-05,Toys,6,420.0,2520.0
+East,Store_13,2020-03-21,Home & Kitchen,13,482.55,6273.150000000001
+East,Store_10,2021-10-31,Toys,7,159.57,1116.99
+East,Store_9,2020-12-27,Toys,16,359.64,5754.24
+East,Store_4,2020-01-19,Toys,11,69.36,762.96
+East,Store_13,2020-12-22,Clothing,7,23.0,161.0
+East,Store_6,2021-09-29,Clothing,7,162.39,1136.73
+East,Store_9,2020-07-12,Home & Kitchen,8,481.34,3850.72
+East,Store_17,2021-04-01,Toys,5,437.42,2187.1
+East,Store_6,2021-03-21,Clothing,10,170.31,1703.1
+East,Store_8,2021-04-05,Toys,12,179.14,2149.68
+East,Store_18,2021-08-22,Toys,19,434.94,8263.86
+East,Store_11,2020-07-20,Sports,4,137.73,550.92
+East,Store_8,2021-01-04,Toys,3,292.64,877.92
+East,Store_11,2021-08-18,Toys,4,175.09,700.36
+East,Store_16,2021-12-03,Sports,3,396.39,1189.17
+East,Store_14,2020-11-13,Electronics,15,91.48,1372.2
+East,Store_18,2021-06-22,Clothing,15,154.19,2312.85
+East,Store_5,2021-07-19,Home & Kitchen,2,210.99,421.98
+East,Store_18,2020-05-29,Home & Kitchen,3,328.03,984.09
+East,Store_10,2021-12-13,Electronics,4,499.29,1997.16
+East,Store_3,2020-10-21,Sports,3,126.93,380.79
+East,Store_1,2021-07-30,Home & Kitchen,3,437.19,1311.57
+East,Store_14,2020-09-02,Sports,13,404.31,5256.03
+East,Store_13,2021-09-15,Electronics,2,236.57,473.14
+East,Store_11,2021-10-18,Electronics,12,302.45,3629.4
+East,Store_8,2020-03-12,Home & Kitchen,2,118.82,237.64
+East,Store_1,2020-01-24,Clothing,6,491.53,2949.18
+East,Store_3,2021-01-08,Clothing,7,285.16,1996.12
+East,Store_10,2020-05-25,Electronics,1,356.26,356.26
+East,Store_14,2020-02-23,Clothing,16,120.8,1932.8
+East,Store_10,2021-06-11,Clothing,12,496.07,5952.84
+East,Store_14,2020-12-09,Clothing,12,424.29,5091.4800000000005
+East,Store_15,2020-09-26,Electronics,2,132.18,264.36
+East,Store_3,2021-07-23,Electronics,1,235.17,235.17
+East,Store_16,2020-09-26,Sports,19,454.15,8628.85
+East,Store_16,2021-07-09,Home & Kitchen,16,186.29,2980.64
+East,Store_1,2020-03-29,Home & Kitchen,6,414.77,2488.62
+East,Store_6,2020-09-03,Sports,19,485.24,9219.56
+East,Store_1,2021-05-11,Clothing,15,154.41,2316.15
+East,Store_13,2020-10-30,Home & Kitchen,16,98.64,1578.24
+East,Store_4,2020-10-29,Sports,12,240.86,2890.32
+East,Store_1,2021-03-04,Toys,18,389.66,7013.88
+East,Store_2,2021-07-21,Sports,1,25.11,25.11
+East,Store_9,2021-07-02,Toys,19,497.93,9460.67
+East,Store_19,2021-08-25,Clothing,5,146.88,734.4
+East,Store_5,2021-10-12,Sports,18,297.52,5355.36
+East,Store_9,2021-05-30,Home & Kitchen,8,390.01,3120.08
+East,Store_13,2020-10-29,Toys,13,357.2,4643.599999999999
+East,Store_14,2021-09-04,Sports,11,454.78,5002.58
+East,Store_16,2020-10-17,Home & Kitchen,14,411.67,5763.38
+East,Store_16,2021-12-17,Electronics,10,445.64,4456.4
+East,Store_6,2021-07-13,Toys,7,363.04,2541.28
+East,Store_6,2021-05-28,Home & Kitchen,19,332.25,6312.75
+East,Store_18,2021-02-14,Electronics,16,387.06,6192.96
+East,Store_5,2020-02-07,Clothing,2,188.03,376.06
+East,Store_18,2020-08-06,Toys,6,314.65,1887.9
+East,Store_9,2020-10-25,Electronics,6,325.96,1955.76
+East,Store_1,2020-11-20,Home & Kitchen,17,428.69,7287.73
+East,Store_10,2021-04-01,Sports,3,12.35,37.05
+East,Store_2,2020-09-27,Toys,5,342.54,1712.7
+East,Store_11,2020-12-28,Sports,16,272.27,4356.32
+East,Store_9,2020-09-01,Clothing,1,379.21,379.21
+East,Store_18,2020-09-21,Home & Kitchen,10,359.74,3597.4
+East,Store_3,2021-03-21,Electronics,7,338.24,2367.6800000000003
+East,Store_16,2020-09-11,Toys,3,140.1,420.3
+East,Store_3,2021-12-21,Home & Kitchen,2,167.69,335.38
+East,Store_18,2020-10-12,Toys,8,159.23,1273.84
+East,Store_19,2021-03-07,Sports,1,498.73,498.73
+East,Store_10,2020-06-21,Sports,13,446.14,5799.82
+East,Store_10,2020-04-02,Clothing,15,188.2,2823.0
+East,Store_3,2020-03-25,Clothing,5,99.31,496.55
+East,Store_2,2021-10-27,Home & Kitchen,15,39.33,589.9499999999999
+East,Store_15,2020-09-13,Toys,2,456.82,913.64
+East,Store_2,2020-07-24,Electronics,16,484.97,7759.52
+East,Store_2,2020-08-19,Electronics,4,245.67,982.68
+East,Store_10,2020-09-12,Electronics,9,254.71,2292.39
+East,Store_2,2021-04-19,Sports,2,106.22,212.44
+East,Store_1,2021-02-10,Home & Kitchen,13,447.8,5821.400000000001
+East,Store_15,2020-05-03,Home & Kitchen,9,109.19,982.71
+East,Store_16,2020-05-25,Sports,19,421.21,8002.99
+East,Store_2,2021-02-04,Sports,14,491.51,6881.139999999999
+East,Store_4,2021-06-04,Electronics,8,135.94,1087.52
+East,Store_11,2020-03-14,Toys,8,201.6,1612.8
+East,Store_11,2021-12-06,Electronics,13,348.3,4527.900000000001
+East,Store_12,2021-06-21,Clothing,10,411.43,4114.3
+East,Store_14,2020-05-30,Home & Kitchen,15,30.45,456.75
+East,Store_6,2021-03-27,Toys,7,246.86,1728.02
+East,Store_10,2020-12-09,Sports,19,417.53,7933.07
+East,Store_1,2021-04-23,Clothing,16,316.33,5061.28
+East,Store_20,2020-05-08,Electronics,19,246.19,4677.61
+East,Store_12,2020-07-25,Clothing,12,223.59,2683.08
+East,Store_9,2020-10-25,Clothing,6,478.4,2870.4
+East,Store_15,2020-09-15,Sports,12,93.85,1126.1999999999998
+East,Store_13,2021-06-01,Electronics,10,482.73,4827.3
+East,Store_14,2021-07-16,Sports,11,495.27,5447.969999999999
+East,Store_12,2020-03-29,Sports,19,276.69,5257.11
+East,Store_10,2020-12-22,Toys,14,124.74,1746.36
+East,Store_20,2020-03-04,Clothing,10,29.28,292.8
+East,Store_7,2020-12-02,Sports,19,344.83,6551.77
+East,Store_3,2021-01-09,Clothing,10,157.87,1578.7
+East,Store_7,2021-10-25,Clothing,3,234.43,703.29
+East,Store_16,2021-07-03,Electronics,1,150.11,150.11
+East,Store_19,2020-12-19,Electronics,11,278.98,3068.78
+East,Store_12,2020-06-08,Clothing,8,186.72,1493.76
+East,Store_9,2020-09-21,Clothing,9,412.47,3712.230000000001
+East,Store_9,2021-02-20,Electronics,16,460.03,7360.48
+East,Store_7,2021-06-14,Toys,13,13.21,171.73000000000002
+East,Store_17,2021-09-13,Clothing,8,60.55,484.4
+East,Store_5,2021-10-09,Clothing,10,14.87,148.7
+East,Store_17,2021-07-01,Home & Kitchen,10,45.53,455.3
+East,Store_14,2021-09-21,Sports,15,149.04,2235.6
+East,Store_16,2021-01-08,Home & Kitchen,8,417.19,3337.52
+East,Store_11,2021-05-01,Toys,19,265.0,5035.0
+East,Store_16,2021-01-26,Home & Kitchen,10,482.84,4828.4
+East,Store_15,2020-04-11,Toys,3,108.89,326.67
+East,Store_3,2021-02-03,Sports,16,368.18,5890.88
+East,Store_14,2020-03-01,Clothing,7,131.69,921.83
+East,Store_15,2021-03-13,Electronics,13,350.62,4558.06
+East,Store_13,2020-04-02,Electronics,3,477.77,1433.31
+East,Store_9,2021-05-26,Electronics,17,208.83,3550.11
+East,Store_18,2021-03-11,Clothing,11,395.67,4352.37
+East,Store_13,2021-11-26,Home & Kitchen,14,13.23,185.22
+East,Store_8,2020-04-22,Electronics,1,119.23,119.23
+East,Store_18,2020-12-23,Clothing,17,465.9,7920.299999999999
+East,Store_19,2020-02-05,Sports,17,437.98,7445.66
+East,Store_6,2020-11-01,Sports,10,498.72,4987.200000000001
+East,Store_7,2021-11-10,Toys,5,322.51,1612.55
+East,Store_3,2021-02-11,Toys,8,150.48,1203.84
+East,Store_12,2020-01-18,Home & Kitchen,14,214.73,3006.22
+East,Store_13,2020-02-27,Toys,9,54.74,492.66
+East,Store_13,2020-01-17,Clothing,3,423.94,1271.82
+East,Store_3,2020-04-10,Home & Kitchen,18,56.45,1016.1
+East,Store_9,2020-05-07,Clothing,5,453.51,2267.55
+East,Store_16,2021-07-01,Sports,13,201.49,2619.37
+East,Store_20,2020-03-25,Clothing,14,362.36,5073.04
+East,Store_10,2021-04-11,Sports,10,431.75,4317.5
+East,Store_19,2021-09-17,Toys,11,356.61,3922.71
+East,Store_8,2020-10-23,Electronics,3,491.5,1474.5
+East,Store_12,2021-11-09,Sports,6,231.99,1391.94
+East,Store_14,2020-12-30,Sports,5,454.34,2271.7
+East,Store_19,2020-04-21,Electronics,4,496.7,1986.8
+East,Store_9,2021-05-06,Toys,11,355.16,3906.76
+East,Store_1,2020-11-08,Toys,18,431.5,7767.0
+East,Store_5,2020-11-12,Clothing,2,227.82,455.64
+East,Store_11,2020-09-14,Home & Kitchen,7,345.84,2420.88
+East,Store_3,2020-01-25,Toys,6,40.3,241.8
+East,Store_6,2020-10-17,Clothing,13,179.18,2329.34
+East,Store_2,2020-09-21,Toys,1,125.98,125.98
+East,Store_20,2020-05-27,Sports,12,454.62,5455.4400000000005
+East,Store_17,2020-07-23,Home & Kitchen,10,103.53,1035.3
+East,Store_12,2020-04-15,Sports,14,314.09,4397.259999999999
+East,Store_11,2021-12-29,Sports,2,311.93,623.86
+East,Store_4,2020-09-09,Sports,7,64.77,453.39
+East,Store_4,2021-07-07,Home & Kitchen,13,187.35,2435.55
+East,Store_16,2021-10-01,Home & Kitchen,3,461.29,1383.87
+East,Store_8,2020-11-04,Toys,5,354.42,1772.1
+East,Store_10,2021-12-23,Sports,3,243.77,731.3100000000001
+East,Store_9,2021-10-22,Sports,16,257.84,4125.44
+East,Store_3,2020-07-26,Clothing,8,333.61,2668.88
+East,Store_19,2021-12-01,Electronics,8,5.83,46.64
+East,Store_10,2021-03-11,Sports,18,177.62,3197.16
+East,Store_3,2021-06-18,Electronics,14,103.79,1453.0600000000002
+East,Store_13,2020-12-10,Sports,1,302.91,302.91
+East,Store_3,2020-10-30,Toys,12,167.37,2008.44
+East,Store_7,2020-07-18,Electronics,2,302.1,604.2
+East,Store_5,2020-09-26,Toys,18,125.95,2267.1
+East,Store_2,2020-08-30,Sports,11,130.43,1434.73
+East,Store_19,2021-12-27,Toys,1,129.27,129.27
+East,Store_3,2020-03-07,Home & Kitchen,14,399.86,5598.04
+East,Store_7,2020-11-29,Clothing,7,217.0,1519.0
+East,Store_11,2020-12-01,Toys,5,162.74,813.7
+East,Store_4,2020-11-21,Clothing,1,285.55,285.55
+East,Store_7,2020-03-10,Toys,15,59.86,897.9
+East,Store_11,2020-11-25,Electronics,12,71.78,861.36
+East,Store_10,2021-07-03,Electronics,19,328.49,6241.31
+East,Store_5,2021-07-11,Toys,12,349.56,4194.72
+East,Store_10,2021-02-22,Electronics,7,231.18,1618.26
+East,Store_9,2020-02-12,Home & Kitchen,13,458.68,5962.84
+East,Store_19,2020-03-29,Clothing,16,195.83,3133.28
+East,Store_13,2020-12-18,Home & Kitchen,4,59.45,237.8
+East,Store_20,2020-05-14,Clothing,7,185.22,1296.54
+East,Store_7,2020-11-16,Electronics,13,117.83,1531.79
+East,Store_14,2020-07-02,Electronics,7,289.44,2026.08
+East,Store_8,2020-08-29,Sports,16,69.88,1118.08
+East,Store_10,2021-05-13,Toys,3,335.74,1007.22
+East,Store_11,2021-12-06,Clothing,14,275.49,3856.86
+East,Store_9,2020-08-30,Electronics,9,223.99,2015.91
+East,Store_11,2021-11-27,Home & Kitchen,2,277.55,555.1
+East,Store_18,2021-07-31,Clothing,17,42.54,723.18
+East,Store_18,2020-11-02,Home & Kitchen,4,363.93,1455.72
+East,Store_12,2021-02-11,Clothing,2,251.01,502.02
+East,Store_12,2020-12-26,Toys,19,386.31,7339.89
+East,Store_1,2020-02-10,Electronics,7,472.29,3306.03
+East,Store_20,2020-07-13,Home & Kitchen,14,49.36,691.04
+East,Store_15,2021-09-05,Sports,12,375.95,4511.4
+East,Store_10,2021-11-06,Clothing,11,52.75,580.25
+East,Store_7,2020-12-24,Sports,5,230.6,1153.0
+East,Store_17,2020-10-13,Sports,18,172.02,3096.36
+East,Store_16,2020-02-15,Home & Kitchen,1,48.53,48.53
+East,Store_7,2021-01-22,Clothing,11,29.79,327.69
+East,Store_10,2020-11-09,Clothing,2,167.16,334.32
+East,Store_2,2020-10-26,Electronics,7,181.71,1271.97
+East,Store_17,2021-01-20,Electronics,17,318.09,5407.53
+East,Store_15,2021-07-30,Sports,12,93.84,1126.08
+East,Store_4,2020-12-09,Sports,18,368.74,6637.32
+East,Store_4,2020-02-13,Toys,16,180.49,2887.84
+East,Store_9,2021-11-13,Sports,19,12.43,236.17
+East,Store_19,2021-04-29,Home & Kitchen,10,395.99,3959.9
+East,Store_13,2020-11-23,Home & Kitchen,2,134.78,269.56
+East,Store_15,2021-05-17,Sports,4,119.5,478.0
+East,Store_7,2021-05-17,Sports,13,75.71,984.23
+East,Store_4,2021-09-08,Home & Kitchen,9,126.43,1137.87
+East,Store_18,2021-06-15,Clothing,4,366.06,1464.24
+East,Store_17,2020-03-29,Home & Kitchen,8,428.46,3427.68
+East,Store_13,2021-03-31,Sports,2,331.15,662.3
+East,Store_12,2021-02-01,Sports,18,140.73,2533.14
+East,Store_7,2020-11-12,Home & Kitchen,1,349.06,349.06
+East,Store_6,2021-03-13,Home & Kitchen,2,248.43,496.86
+East,Store_20,2021-01-20,Home & Kitchen,4,458.26,1833.04
+East,Store_18,2021-11-13,Electronics,8,398.56,3188.48
+East,Store_1,2021-05-09,Sports,4,458.01,1832.04
+East,Store_13,2021-11-10,Home & Kitchen,3,443.94,1331.82
+East,Store_1,2021-07-28,Electronics,15,372.75,5591.25
+East,Store_17,2021-05-27,Home & Kitchen,10,210.86,2108.6000000000004
+East,Store_15,2021-12-18,Toys,12,210.17,2522.04
+East,Store_6,2020-01-11,Home & Kitchen,5,144.5,722.5
+East,Store_6,2020-03-20,Electronics,6,244.32,1465.92
+East,Store_12,2021-11-30,Electronics,16,292.41,4678.56
+East,Store_15,2021-05-29,Home & Kitchen,16,232.09,3713.44
+East,Store_3,2021-05-28,Toys,10,10.99,109.9
+East,Store_16,2020-05-26,Home & Kitchen,17,296.0,5032.0
+East,Store_7,2021-09-23,Electronics,12,351.21,4214.52
+East,Store_10,2021-11-07,Clothing,13,133.36,1733.6800000000003
+East,Store_10,2021-02-27,Toys,4,286.36,1145.44
+East,Store_5,2021-09-04,Toys,14,333.05,4662.7
+East,Store_11,2021-03-01,Electronics,10,220.9,2209.0
+East,Store_8,2020-07-27,Toys,7,249.61,1747.27
+East,Store_2,2021-02-15,Clothing,8,360.26,2882.08
+East,Store_16,2020-11-25,Toys,17,97.18,1652.0600000000002
+East,Store_12,2021-11-07,Sports,10,461.7,4617.0
+East,Store_20,2020-01-25,Toys,18,386.24,6952.32
+East,Store_1,2021-10-21,Sports,11,206.39,2270.29
+East,Store_5,2021-04-07,Toys,4,219.57,878.28
+East,Store_8,2020-09-27,Sports,12,294.75,3537.0
+East,Store_15,2020-06-18,Electronics,3,439.87,1319.61
+East,Store_11,2020-12-15,Electronics,12,309.4,3712.8
+East,Store_13,2020-11-28,Electronics,6,450.11,2700.66
+East,Store_20,2021-07-30,Toys,12,33.74,404.88
+East,Store_16,2021-07-05,Home & Kitchen,17,356.13,6054.21
+East,Store_19,2020-01-08,Home & Kitchen,13,106.61,1385.93
+East,Store_7,2021-04-23,Toys,4,143.84,575.36
+East,Store_9,2021-10-18,Home & Kitchen,9,422.96,3806.64
+East,Store_14,2020-01-14,Sports,16,351.64,5626.24
+East,Store_1,2020-05-06,Electronics,15,226.82,3402.3
+East,Store_9,2021-02-13,Home & Kitchen,1,163.82,163.82
+East,Store_7,2020-03-04,Home & Kitchen,1,142.54,142.54
+East,Store_19,2020-02-29,Toys,5,286.35,1431.75
+East,Store_16,2021-04-14,Sports,1,479.21,479.21
+East,Store_19,2020-07-23,Electronics,2,225.81,451.62
+East,Store_19,2021-02-11,Home & Kitchen,18,324.46,5840.28
+East,Store_2,2021-01-29,Electronics,18,29.29,527.22
+East,Store_5,2021-11-26,Toys,6,416.59,2499.54
+East,Store_20,2021-06-10,Home & Kitchen,7,69.81,488.67
+East,Store_11,2020-08-14,Clothing,7,317.76,2224.32
+East,Store_10,2021-09-25,Home & Kitchen,7,22.84,159.88
+East,Store_11,2020-04-06,Sports,16,301.85,4829.6
+East,Store_1,2020-07-29,Clothing,1,85.85,85.85
+East,Store_5,2020-01-06,Toys,7,174.09,1218.63
+East,Store_11,2021-08-24,Home & Kitchen,13,375.48,4881.24
+East,Store_10,2021-08-14,Home & Kitchen,17,260.62,4430.54
+East,Store_8,2021-02-11,Electronics,17,438.35,7451.950000000001
+East,Store_18,2021-09-14,Electronics,1,10.85,10.85
+East,Store_6,2021-08-06,Electronics,15,353.59,5303.849999999999
+East,Store_3,2020-12-25,Toys,14,263.68,3691.52
+East,Store_13,2021-03-06,Sports,10,375.5,3755.0
+East,Store_9,2020-01-12,Electronics,10,448.24,4482.4
+East,Store_3,2021-09-10,Clothing,15,300.88,4513.2
+East,Store_6,2021-10-10,Sports,10,72.77,727.6999999999999
+East,Store_6,2020-11-25,Toys,12,206.74,2480.88
+East,Store_20,2020-04-23,Electronics,10,484.13,4841.3
+East,Store_11,2020-01-01,Clothing,11,373.76,4111.36
+East,Store_19,2020-08-27,Clothing,17,73.09,1242.53
+East,Store_10,2020-05-01,Clothing,1,480.18,480.18
+East,Store_9,2020-08-29,Home & Kitchen,13,363.84,4729.92
+East,Store_1,2020-05-05,Toys,17,473.72,8053.240000000001
+East,Store_20,2021-08-03,Home & Kitchen,9,278.96,2510.64
+East,Store_12,2021-11-11,Home & Kitchen,15,73.92,1108.8
+East,Store_1,2020-08-19,Electronics,9,130.91,1178.19
+East,Store_15,2020-11-18,Home & Kitchen,1,237.65,237.65
+East,Store_5,2020-06-24,Toys,16,289.16,4626.56
+East,Store_16,2021-04-16,Sports,8,208.48,1667.84
+East,Store_20,2020-07-13,Home & Kitchen,18,216.63,3899.34
+East,Store_20,2021-05-17,Sports,11,263.79,2901.69
+East,Store_3,2020-03-02,Toys,10,361.65,3616.5
+East,Store_9,2020-07-24,Home & Kitchen,10,149.58,1495.8000000000002
+East,Store_11,2021-05-03,Home & Kitchen,11,159.2,1751.1999999999998
+East,Store_20,2021-05-12,Electronics,15,233.65,3504.75
+East,Store_20,2021-11-26,Clothing,14,494.95,6929.3
+East,Store_11,2020-02-19,Clothing,1,280.85,280.85
+East,Store_19,2020-01-03,Electronics,9,86.27,776.43
+East,Store_14,2020-06-13,Sports,13,291.43,3788.59
+East,Store_3,2021-04-11,Home & Kitchen,2,475.78,951.56
+East,Store_4,2020-03-24,Sports,15,311.71,4675.65
+East,Store_7,2021-01-17,Toys,6,307.56,1845.36
+East,Store_6,2020-07-02,Sports,12,246.65,2959.8
+East,Store_18,2020-11-02,Home & Kitchen,5,276.11,1380.5500000000002
+East,Store_4,2020-12-01,Clothing,3,307.61,922.83
+East,Store_17,2021-11-24,Electronics,13,331.73,4312.49
+East,Store_16,2020-12-14,Sports,16,323.69,5179.04
+East,Store_11,2020-02-02,Electronics,2,175.38,350.76
+East,Store_14,2021-02-19,Home & Kitchen,12,468.69,5624.28
+East,Store_10,2021-02-03,Toys,5,469.2,2346.0
+East,Store_4,2021-10-31,Home & Kitchen,15,222.11,3331.65
+East,Store_3,2021-10-21,Electronics,16,389.71,6235.36
+East,Store_12,2020-11-16,Home & Kitchen,11,457.48,5032.280000000001
+East,Store_7,2021-05-04,Home & Kitchen,5,224.87,1124.35
+East,Store_2,2020-04-28,Home & Kitchen,6,9.15,54.900000000000006
+East,Store_8,2021-09-04,Clothing,14,44.2,618.8000000000001
+East,Store_13,2021-11-16,Home & Kitchen,11,385.56,4241.16
+East,Store_4,2021-12-24,Home & Kitchen,3,104.83,314.49
+East,Store_15,2021-06-16,Toys,3,355.88,1067.64
+East,Store_9,2020-03-29,Home & Kitchen,10,458.25,4582.5
+East,Store_19,2020-08-20,Toys,18,344.81,6206.58
+East,Store_6,2020-01-15,Electronics,7,45.98,321.86
+East,Store_15,2020-07-12,Home & Kitchen,10,186.98,1869.8
+East,Store_8,2021-05-12,Electronics,3,480.52,1441.56
+East,Store_9,2020-07-11,Clothing,5,263.91,1319.5500000000002
+East,Store_6,2020-02-19,Clothing,15,416.34,6245.099999999999
+East,Store_6,2020-02-18,Home & Kitchen,1,90.3,90.3
+East,Store_8,2020-01-23,Electronics,1,403.09,403.09
+East,Store_12,2020-09-07,Sports,8,184.3,1474.4
+East,Store_10,2020-06-01,Sports,13,336.28,4371.639999999999
+East,Store_20,2021-02-28,Toys,15,32.37,485.55
+East,Store_20,2020-11-06,Home & Kitchen,7,441.73,3092.11
+East,Store_7,2021-12-04,Electronics,3,88.56,265.68
+East,Store_19,2020-08-06,Toys,1,450.56,450.56
+East,Store_11,2021-03-29,Sports,13,479.57,6234.41
+East,Store_13,2020-08-14,Clothing,7,406.94,2848.58
+East,Store_1,2020-08-31,Home & Kitchen,8,124.12,992.96
+East,Store_4,2021-04-12,Clothing,12,444.23,5330.76
+East,Store_6,2021-03-08,Home & Kitchen,7,57.33,401.31
+East,Store_11,2021-03-26,Sports,15,116.96,1754.4
+East,Store_13,2021-09-10,Toys,17,98.83,1680.11
+East,Store_4,2020-06-19,Electronics,3,128.55,385.65
+East,Store_10,2020-08-30,Home & Kitchen,10,353.4,3534.0
+East,Store_15,2020-09-15,Electronics,18,427.22,7689.960000000001
+East,Store_18,2020-02-27,Electronics,11,338.44,3722.84
+East,Store_18,2020-03-18,Electronics,1,285.11,285.11
+East,Store_3,2020-10-31,Electronics,8,452.69,3621.52
+East,Store_6,2021-02-25,Clothing,6,491.15,2946.9
+East,Store_2,2021-01-29,Clothing,8,64.56,516.48
+East,Store_7,2021-06-30,Electronics,12,331.69,3980.28
+East,Store_2,2021-02-03,Home & Kitchen,4,435.93,1743.72
+East,Store_4,2021-07-12,Sports,12,255.79,3069.48
+East,Store_1,2020-08-23,Sports,4,490.41,1961.64
+East,Store_8,2020-06-11,Home & Kitchen,8,444.45,3555.6
+East,Store_4,2020-07-02,Clothing,17,171.48,2915.16
+East,Store_9,2021-10-31,Sports,2,187.72,375.44
+East,Store_20,2020-09-20,Toys,17,314.07,5339.19
+East,Store_6,2020-08-07,Home & Kitchen,10,480.19,4801.9
+East,Store_5,2020-12-04,Home & Kitchen,11,275.2,3027.2
+East,Store_3,2020-02-19,Toys,3,175.16,525.48
+East,Store_4,2020-07-15,Clothing,7,479.77,3358.39
+East,Store_3,2021-09-13,Toys,19,282.26,5362.94
+East,Store_7,2020-11-07,Clothing,3,390.65,1171.9499999999998
+East,Store_7,2020-12-23,Home & Kitchen,5,42.97,214.85
+East,Store_20,2021-04-10,Sports,1,484.18,484.18
+East,Store_14,2021-12-03,Sports,15,376.14,5642.099999999999
+East,Store_8,2021-10-10,Clothing,2,183.45,366.9
+East,Store_17,2021-09-11,Electronics,15,459.9,6898.5
+East,Store_9,2020-06-02,Clothing,11,402.53,4427.83
+East,Store_10,2021-02-27,Home & Kitchen,8,108.32,866.56
+East,Store_18,2021-09-23,Electronics,7,125.35,877.4499999999999
+East,Store_15,2021-06-19,Toys,17,281.14,4779.38
+East,Store_6,2020-05-20,Toys,16,52.89,846.24
+East,Store_2,2021-01-23,Home & Kitchen,2,150.57,301.14
+East,Store_11,2020-01-30,Sports,11,384.0,4224.0
+East,Store_20,2021-04-15,Electronics,19,301.5,5728.5
+East,Store_6,2020-02-16,Clothing,3,366.9,1100.6999999999998
+East,Store_18,2021-02-06,Sports,13,287.8,3741.4
+East,Store_2,2020-07-28,Sports,13,165.02,2145.26
+East,Store_2,2021-05-08,Clothing,11,78.91,868.01
+East,Store_10,2020-12-26,Sports,3,183.41,550.23
+East,Store_14,2021-09-22,Electronics,3,419.48,1258.44
+East,Store_7,2020-07-22,Clothing,6,174.1,1044.6
+East,Store_12,2021-10-26,Sports,1,78.36,78.36
+East,Store_17,2021-05-23,Toys,13,263.07,3419.91
+East,Store_8,2021-09-08,Clothing,14,312.34,4372.759999999999
+East,Store_5,2020-01-16,Toys,13,362.32,4710.16
+East,Store_7,2020-11-05,Toys,2,94.25,188.5
+East,Store_12,2020-01-10,Electronics,15,309.29,4639.35
+East,Store_8,2020-04-18,Clothing,6,101.81,610.86
+East,Store_8,2021-09-07,Electronics,15,34.06,510.9
+East,Store_20,2021-10-12,Clothing,8,42.75,342.0
+East,Store_17,2021-10-15,Toys,17,129.59,2203.03
+East,Store_13,2020-09-07,Sports,9,285.91,2573.19
+East,Store_10,2020-08-22,Home & Kitchen,4,190.61,762.44
+East,Store_6,2020-01-01,Clothing,17,188.62,3206.54
+East,Store_20,2021-03-31,Toys,11,448.17,4929.87
+East,Store_5,2020-01-19,Clothing,3,38.25,114.75
+East,Store_4,2021-09-25,Toys,6,256.84,1541.04
+East,Store_16,2020-12-25,Home & Kitchen,17,259.63,4413.71
+East,Store_20,2020-01-04,Clothing,2,447.2,894.4
+East,Store_4,2020-02-16,Home & Kitchen,9,340.23,3062.07
+East,Store_14,2021-03-16,Home & Kitchen,9,44.91,404.19
+East,Store_8,2021-03-26,Toys,16,137.96,2207.36
+East,Store_6,2020-03-09,Home & Kitchen,1,73.94,73.94
+East,Store_9,2021-03-30,Toys,1,443.16,443.16
+East,Store_18,2021-08-12,Home & Kitchen,8,415.94,3327.52
+East,Store_11,2021-08-17,Electronics,19,329.64,6263.16
+East,Store_18,2021-09-23,Sports,4,341.23,1364.92
+East,Store_7,2020-06-22,Electronics,4,43.61,174.44
+East,Store_9,2021-01-03,Home & Kitchen,2,389.6,779.2
+East,Store_17,2020-08-25,Toys,2,475.24,950.48
+East,Store_20,2020-08-13,Toys,4,140.04,560.16
+East,Store_17,2020-11-05,Sports,16,138.08,2209.28
+East,Store_6,2020-03-05,Toys,1,175.89,175.89
+East,Store_16,2021-10-21,Home & Kitchen,18,82.45,1484.1
+East,Store_16,2021-10-26,Electronics,5,355.52,1777.6
+East,Store_17,2021-01-31,Toys,17,260.95,4436.15
+East,Store_11,2020-12-09,Electronics,5,379.33,1896.65
+East,Store_9,2020-05-21,Electronics,12,424.35,5092.200000000001
+East,Store_19,2020-07-24,Toys,17,73.22,1244.74
+East,Store_7,2020-01-16,Clothing,14,403.51,5649.139999999999
+East,Store_14,2021-03-14,Sports,11,49.16,540.76
+East,Store_1,2021-06-08,Electronics,5,189.62,948.1
+East,Store_10,2021-05-06,Toys,15,408.28,6124.2
+East,Store_10,2020-06-14,Toys,6,357.53,2145.18
+East,Store_7,2021-02-23,Electronics,7,73.37,513.59
+East,Store_11,2021-10-04,Electronics,13,57.88,752.44
+East,Store_20,2020-04-14,Sports,6,8.05,48.3
+East,Store_19,2020-01-17,Home & Kitchen,15,353.39,5300.849999999999
+East,Store_5,2021-09-13,Home & Kitchen,12,448.99,5387.88
+East,Store_12,2021-08-07,Clothing,16,347.86,5565.76
+East,Store_11,2020-11-03,Toys,16,80.31,1284.96
+East,Store_13,2021-08-16,Toys,5,464.71,2323.55
+East,Store_4,2021-09-04,Toys,7,164.87,1154.09
+East,Store_13,2020-09-18,Clothing,13,22.56,293.28
+East,Store_16,2020-03-26,Electronics,14,144.31,2020.34
+East,Store_4,2021-05-12,Clothing,8,406.73,3253.84
+East,Store_11,2021-01-15,Clothing,18,375.33,6755.94
+East,Store_17,2020-10-02,Electronics,17,239.98,4079.66
+East,Store_6,2021-12-26,Clothing,8,205.7,1645.6
+East,Store_11,2021-11-28,Electronics,10,299.3,2993.0
+East,Store_8,2021-08-12,Clothing,19,163.71,3110.49
+East,Store_17,2020-11-10,Clothing,17,437.26,7433.42
+East,Store_1,2020-08-27,Toys,11,99.87,1098.5700000000002
+East,Store_19,2020-09-29,Home & Kitchen,15,469.96,7049.4
+East,Store_12,2020-04-05,Clothing,16,460.31,7364.96
+East,Store_19,2020-11-05,Home & Kitchen,11,400.8,4408.8
+East,Store_12,2020-08-03,Clothing,3,363.67,1091.01
+East,Store_14,2021-02-27,Toys,14,442.67,6197.38
+East,Store_14,2021-05-15,Sports,9,493.76,4443.84
+East,Store_8,2021-10-10,Sports,4,178.39,713.56
+East,Store_19,2020-02-14,Sports,18,291.04,5238.72
+East,Store_11,2020-11-04,Toys,7,370.98,2596.86
+East,Store_12,2021-05-11,Clothing,13,386.34,5022.42
+East,Store_19,2020-04-09,Clothing,17,162.28,2758.76
+East,Store_20,2020-05-18,Home & Kitchen,12,272.74,3272.88
+East,Store_1,2021-05-04,Home & Kitchen,11,335.85,3694.35
+East,Store_15,2021-04-23,Clothing,14,215.18,3012.52
+East,Store_15,2020-08-06,Home & Kitchen,16,45.71,731.36
+East,Store_14,2020-02-24,Sports,9,46.33,416.97
+East,Store_7,2020-02-21,Electronics,13,119.42,1552.46
+East,Store_1,2021-01-05,Clothing,10,295.1,2951.0
+East,Store_12,2021-07-24,Home & Kitchen,8,19.51,156.08
+East,Store_16,2021-12-30,Electronics,16,114.48,1831.68
+East,Store_5,2021-11-26,Electronics,13,381.41,4958.33
+East,Store_17,2020-11-17,Clothing,3,132.77,398.31000000000006
+East,Store_10,2020-10-15,Clothing,13,238.15,3095.9500000000003
+East,Store_15,2020-09-25,Home & Kitchen,13,328.38,4268.94
+East,Store_19,2020-04-05,Electronics,10,28.39,283.9
+East,Store_11,2020-01-24,Toys,11,113.88,1252.6799999999998
+East,Store_1,2020-09-10,Toys,15,498.11,7471.650000000001
+East,Store_1,2021-10-04,Clothing,6,330.69,1984.14
+East,Store_9,2020-08-05,Clothing,13,240.62,3128.06
+East,Store_2,2021-02-17,Sports,13,170.11,2211.4300000000003
+East,Store_15,2020-11-14,Toys,14,383.93,5375.02
+East,Store_19,2020-03-21,Toys,18,131.43,2365.74
+East,Store_15,2020-08-07,Electronics,4,76.15,304.6
+East,Store_3,2021-08-31,Home & Kitchen,16,202.52,3240.32
+East,Store_12,2021-01-06,Sports,12,63.55,762.5999999999999
+East,Store_8,2020-03-23,Electronics,16,58.82,941.12
+East,Store_15,2021-10-18,Sports,10,263.22,2632.2000000000003
+East,Store_9,2020-01-01,Electronics,17,264.5,4496.5
+East,Store_6,2020-09-20,Clothing,16,364.8,5836.8
+East,Store_9,2020-08-25,Sports,19,192.15,3650.85
+East,Store_20,2020-04-08,Electronics,3,332.27,996.81
+East,Store_7,2020-04-16,Electronics,9,398.17,3583.53
+East,Store_6,2021-06-02,Home & Kitchen,1,200.26,200.26
+East,Store_12,2021-08-09,Sports,5,61.59,307.95000000000005
+East,Store_14,2021-10-13,Home & Kitchen,10,354.99,3549.9
+East,Store_16,2020-01-31,Home & Kitchen,7,422.73,2959.11
+East,Store_6,2021-10-02,Clothing,1,38.35,38.35
+East,Store_13,2020-01-30,Electronics,2,128.97,257.94
+East,Store_5,2021-06-23,Clothing,13,354.08,4603.04
+East,Store_8,2021-03-23,Home & Kitchen,12,418.09,5017.08
+East,Store_13,2020-11-02,Toys,16,220.34,3525.44
+East,Store_15,2020-01-09,Home & Kitchen,2,104.5,209.0
+East,Store_14,2020-05-25,Electronics,7,480.95,3366.65
+East,Store_10,2021-09-25,Electronics,2,163.29,326.58
+East,Store_18,2021-07-21,Clothing,13,120.29,1563.77
+East,Store_13,2020-08-14,Electronics,14,106.58,1492.12
+East,Store_15,2020-08-13,Home & Kitchen,3,356.73,1070.19
+East,Store_7,2021-02-09,Electronics,15,244.82,3672.3
+East,Store_6,2021-05-10,Sports,5,347.2,1736.0
+East,Store_2,2020-11-17,Clothing,18,420.5,7569.0
+East,Store_9,2021-03-29,Clothing,2,146.59,293.18
+East,Store_15,2021-04-03,Toys,5,431.91,2159.55
+East,Store_1,2021-10-26,Clothing,1,372.99,372.99
+East,Store_10,2020-04-11,Home & Kitchen,2,83.42,166.84
+East,Store_16,2020-02-28,Home & Kitchen,9,139.36,1254.2400000000002
+East,Store_8,2021-04-15,Sports,8,350.86,2806.88
+East,Store_3,2021-10-07,Home & Kitchen,6,262.78,1576.6799999999998
+East,Store_10,2021-01-17,Home & Kitchen,4,375.07,1500.28
+East,Store_5,2021-12-15,Clothing,4,412.12,1648.48
+East,Store_4,2020-08-19,Clothing,10,326.62,3266.2
+East,Store_13,2020-07-02,Clothing,4,217.47,869.88
+East,Store_6,2020-10-03,Sports,16,158.71,2539.36
+East,Store_7,2021-04-04,Sports,17,468.1,7957.700000000001
+East,Store_11,2020-05-25,Toys,12,90.04,1080.48
+East,Store_12,2021-09-16,Clothing,17,398.01,6766.17
+East,Store_2,2020-04-01,Clothing,13,123.3,1602.9
+East,Store_13,2021-11-13,Electronics,1,444.91,444.91
+East,Store_19,2020-08-04,Electronics,14,457.97,6411.58
+East,Store_16,2021-12-24,Sports,9,216.05,1944.45
+East,Store_13,2021-09-23,Electronics,10,207.2,2072.0
+East,Store_17,2020-03-19,Electronics,8,473.21,3785.68
+East,Store_16,2021-11-18,Electronics,19,356.92,6781.4800000000005
+East,Store_12,2021-09-24,Home & Kitchen,14,498.12,6973.68
+East,Store_1,2021-10-06,Home & Kitchen,16,215.67,3450.72
+East,Store_1,2020-01-26,Home & Kitchen,7,135.62,949.34
+East,Store_20,2021-09-14,Electronics,11,24.2,266.2
+East,Store_20,2020-12-18,Home & Kitchen,9,110.96,998.64
+East,Store_6,2020-04-11,Electronics,1,271.94,271.94
+East,Store_11,2021-09-09,Toys,13,106.82,1388.66
+East,Store_11,2021-07-16,Clothing,11,176.08,1936.88
+East,Store_19,2021-08-31,Toys,2,257.92,515.84
+East,Store_3,2021-09-27,Electronics,2,209.5,419.0
+East,Store_8,2020-08-02,Toys,9,130.95,1178.55
+East,Store_18,2020-11-17,Toys,5,349.88,1749.4
+East,Store_14,2021-05-11,Home & Kitchen,17,341.05,5797.85
+East,Store_16,2021-10-12,Sports,2,448.35,896.7
+East,Store_8,2020-08-17,Electronics,11,229.17,2520.87
+East,Store_16,2021-06-03,Home & Kitchen,14,18.17,254.38
+East,Store_3,2020-06-04,Electronics,12,489.66,5875.92
+East,Store_20,2021-06-28,Clothing,14,63.45,888.3000000000001
+East,Store_10,2021-12-29,Home & Kitchen,17,95.88,1629.96
+East,Store_13,2020-06-07,Home & Kitchen,14,332.55,4655.7
+East,Store_14,2021-11-07,Home & Kitchen,14,105.65,1479.1
+East,Store_15,2020-02-25,Toys,12,105.67,1268.04
+East,Store_13,2020-06-02,Electronics,18,178.96,3221.28
+East,Store_9,2021-12-30,Electronics,9,464.29,4178.610000000001
+East,Store_11,2020-10-02,Clothing,11,64.23,706.5300000000001
+East,Store_19,2021-06-02,Clothing,5,491.55,2457.75
+East,Store_6,2020-11-29,Electronics,13,329.66,4285.58
+East,Store_18,2021-07-03,Toys,9,443.37,3990.33
+East,Store_15,2021-05-22,Electronics,9,167.82,1510.38
+East,Store_9,2020-10-22,Clothing,12,212.01,2544.12
+East,Store_6,2021-03-26,Toys,1,62.53,62.53
+East,Store_6,2021-08-11,Home & Kitchen,14,486.62,6812.68
+East,Store_6,2020-04-02,Clothing,8,437.0,3496.0
+East,Store_15,2020-02-07,Electronics,19,362.07,6879.33
+East,Store_10,2020-05-17,Home & Kitchen,16,392.84,6285.44
+East,Store_17,2020-01-07,Sports,2,332.15,664.3
+East,Store_18,2021-04-17,Home & Kitchen,1,129.37,129.37
+East,Store_14,2020-09-08,Home & Kitchen,7,405.45,2838.15
+East,Store_9,2020-03-28,Clothing,9,71.14,640.26
+East,Store_11,2021-01-04,Electronics,15,292.13,4381.95
+East,Store_18,2020-09-10,Home & Kitchen,18,293.81,5288.58
+East,Store_1,2021-04-04,Clothing,5,88.21,441.05
+East,Store_1,2020-03-16,Home & Kitchen,3,261.08,783.24
+East,Store_6,2020-12-14,Sports,7,246.54,1725.78
+East,Store_1,2020-03-09,Sports,7,410.75,2875.25
+East,Store_1,2020-10-09,Electronics,7,184.88,1294.16
+East,Store_18,2021-04-11,Sports,9,424.46,3820.14
+East,Store_4,2021-07-23,Electronics,18,259.51,4671.18
+East,Store_8,2021-02-15,Clothing,5,414.07,2070.35
+East,Store_10,2021-02-15,Clothing,7,36.67,256.69
+East,Store_2,2021-07-05,Toys,13,201.03,2613.39
+East,Store_14,2020-08-14,Sports,5,17.95,89.75
+East,Store_5,2021-12-27,Sports,15,302.7,4540.5
+East,Store_12,2020-02-19,Home & Kitchen,17,355.76,6047.92
+East,Store_9,2021-04-01,Electronics,2,336.62,673.24
+East,Store_19,2021-07-22,Clothing,1,122.3,122.3
+East,Store_8,2021-12-28,Sports,8,369.19,2953.52
+East,Store_3,2020-02-02,Home & Kitchen,12,462.82,5553.84
+East,Store_1,2021-12-11,Home & Kitchen,17,77.0,1309.0
+East,Store_10,2021-03-10,Sports,18,210.96,3797.28
+East,Store_2,2020-04-22,Clothing,6,311.33,1867.98
+East,Store_3,2020-05-01,Toys,5,250.67,1253.35
+East,Store_14,2021-10-21,Home & Kitchen,13,160.23,2082.99
+East,Store_16,2020-06-01,Home & Kitchen,7,319.73,2238.11
+East,Store_6,2020-01-11,Sports,15,125.82,1887.3
+East,Store_6,2020-07-27,Toys,5,352.74,1763.7
+East,Store_17,2020-12-08,Electronics,2,450.43,900.86
+East,Store_19,2021-06-04,Sports,4,117.26,469.04
+East,Store_16,2020-01-21,Clothing,8,114.82,918.56
+East,Store_5,2021-04-22,Home & Kitchen,5,261.65,1308.25
+East,Store_8,2021-03-19,Clothing,7,319.62,2237.34
+East,Store_18,2020-10-19,Home & Kitchen,18,424.0,7632.0
+East,Store_18,2020-06-24,Sports,1,473.15,473.15
+East,Store_18,2021-07-03,Toys,15,487.09,7306.349999999999
+East,Store_3,2020-01-26,Home & Kitchen,4,427.07,1708.28
+East,Store_19,2020-07-26,Clothing,14,466.27,6527.78
+East,Store_9,2020-08-11,Sports,16,473.98,7583.68
+East,Store_9,2021-10-28,Electronics,15,270.03,4050.45
+East,Store_8,2021-10-29,Clothing,19,454.16,8629.04
+East,Store_14,2021-01-30,Toys,12,311.44,3737.28
+East,Store_9,2020-10-04,Toys,18,206.44,3715.92
+East,Store_8,2020-11-02,Sports,13,357.67,4649.71
+East,Store_12,2020-02-14,Sports,14,470.48,6586.72
+East,Store_5,2021-11-16,Toys,8,451.38,3611.04
+East,Store_10,2021-07-23,Clothing,10,194.97,1949.7
+East,Store_8,2021-10-10,Toys,18,68.66,1235.88
+East,Store_2,2021-04-17,Clothing,18,357.02,6426.36
+East,Store_16,2020-03-12,Clothing,19,313.62,5958.78
+East,Store_6,2020-11-17,Clothing,3,290.34,871.02
+East,Store_10,2020-05-13,Clothing,2,136.92,273.84
+East,Store_10,2021-09-15,Electronics,1,313.15,313.15
+East,Store_2,2020-07-10,Clothing,19,148.4,2819.6
+East,Store_12,2020-07-17,Toys,11,361.88,3980.68
+East,Store_4,2020-06-27,Sports,18,26.8,482.4
+East,Store_4,2020-09-03,Home & Kitchen,9,193.5,1741.5
+East,Store_7,2020-11-25,Electronics,4,131.75,527.0
+East,Store_16,2020-12-19,Home & Kitchen,18,220.05,3960.9
+East,Store_7,2021-04-27,Toys,19,323.7,6150.3
+East,Store_7,2020-11-28,Home & Kitchen,15,238.21,3573.15
+East,Store_8,2021-01-07,Home & Kitchen,7,287.4,2011.8
+East,Store_13,2020-11-05,Home & Kitchen,12,496.95,5963.4
+East,Store_14,2020-11-15,Sports,14,10.67,149.38
+East,Store_11,2020-06-23,Clothing,4,387.86,1551.44
+East,Store_6,2020-10-23,Home & Kitchen,11,396.57,4362.27
+East,Store_9,2021-12-12,Home & Kitchen,5,371.32,1856.6
+East,Store_10,2020-03-01,Electronics,3,345.84,1037.52
+East,Store_14,2020-05-13,Electronics,5,165.68,828.4000000000001
+East,Store_11,2020-12-21,Toys,7,172.13,1204.91
+East,Store_5,2021-09-26,Clothing,4,337.96,1351.84
+East,Store_16,2020-01-22,Sports,7,380.77,2665.39
+East,Store_10,2021-11-29,Sports,18,311.26,5602.68
+East,Store_18,2021-09-30,Toys,1,127.92,127.92
+East,Store_6,2021-01-16,Home & Kitchen,16,483.41,7734.56
+East,Store_13,2020-09-28,Sports,2,311.62,623.24
+East,Store_11,2020-03-29,Toys,11,246.18,2707.98
+East,Store_15,2021-04-22,Toys,5,308.84,1544.1999999999998
+East,Store_4,2021-04-09,Electronics,18,274.47,4940.460000000001
+East,Store_3,2020-04-27,Toys,18,41.88,753.84
+East,Store_5,2021-02-17,Home & Kitchen,16,459.58,7353.28
+East,Store_2,2020-04-16,Toys,13,450.97,5862.610000000001
+East,Store_15,2020-05-30,Toys,18,80.16,1442.88
+East,Store_1,2020-08-14,Clothing,4,334.93,1339.72
+East,Store_1,2020-01-31,Toys,10,438.0,4380.0
+East,Store_3,2021-09-22,Toys,4,14.26,57.04
+East,Store_4,2020-10-30,Home & Kitchen,16,225.03,3600.48
+East,Store_4,2021-12-16,Electronics,4,256.31,1025.24
+East,Store_1,2020-05-19,Sports,7,124.62,872.34
+East,Store_1,2020-04-13,Clothing,3,34.51,103.53
+East,Store_3,2020-07-17,Sports,1,37.12,37.12
+East,Store_20,2020-11-17,Home & Kitchen,8,330.45,2643.6
+East,Store_13,2020-06-07,Sports,14,236.72,3314.08
+East,Store_3,2021-02-17,Electronics,8,320.0,2560.0
+East,Store_13,2020-09-05,Toys,19,330.73,6283.870000000001
+East,Store_16,2020-03-27,Sports,18,119.06,2143.08
+East,Store_18,2021-03-08,Toys,2,207.83,415.66
+East,Store_2,2021-02-02,Clothing,12,351.89,4222.68
+East,Store_18,2021-12-25,Home & Kitchen,3,218.98,656.9399999999999
+East,Store_14,2020-06-20,Home & Kitchen,1,34.33,34.33
+East,Store_12,2020-09-15,Home & Kitchen,11,386.06,4246.66
+East,Store_7,2021-03-21,Electronics,8,394.22,3153.76
+East,Store_4,2020-09-17,Electronics,6,215.71,1294.26
+East,Store_4,2021-09-28,Home & Kitchen,5,16.72,83.6
+East,Store_20,2020-02-11,Clothing,9,386.52,3478.68
+East,Store_16,2020-09-25,Electronics,8,214.26,1714.08
+East,Store_12,2021-10-19,Home & Kitchen,13,444.37,5776.81
+East,Store_18,2020-01-22,Home & Kitchen,8,459.5,3676.0
+East,Store_14,2020-01-11,Clothing,12,91.75,1101.0
+East,Store_10,2020-04-09,Home & Kitchen,10,494.44,4944.4
+East,Store_7,2021-03-15,Clothing,12,410.85,4930.200000000001
+East,Store_8,2020-09-30,Sports,12,421.45,5057.4
+East,Store_16,2020-11-15,Electronics,5,333.29,1666.45
+East,Store_14,2020-10-09,Electronics,12,81.9,982.8
+East,Store_12,2020-01-15,Electronics,2,458.93,917.86
+East,Store_18,2021-09-25,Clothing,2,458.58,917.16
+East,Store_12,2020-05-02,Home & Kitchen,12,256.26,3075.12
+East,Store_7,2020-01-21,Home & Kitchen,17,357.13,6071.21
+East,Store_1,2021-01-09,Electronics,6,276.43,1658.58
+East,Store_3,2021-03-21,Home & Kitchen,3,175.7,527.0999999999999
+East,Store_5,2020-08-13,Home & Kitchen,3,186.27,558.8100000000001
+East,Store_11,2020-10-28,Home & Kitchen,12,218.34,2620.08
+East,Store_19,2020-07-27,Home & Kitchen,9,393.33,3539.97
+East,Store_18,2021-07-26,Clothing,6,496.34,2978.04
+East,Store_19,2021-08-03,Clothing,11,473.39,5207.29
+East,Store_16,2020-06-16,Home & Kitchen,16,108.35,1733.6
+East,Store_15,2020-03-25,Clothing,18,254.94,4588.92
+East,Store_16,2020-07-27,Clothing,14,230.63,3228.82
+East,Store_3,2020-07-13,Toys,15,221.02,3315.3
+East,Store_8,2021-02-23,Electronics,2,407.25,814.5
+East,Store_16,2021-11-06,Toys,18,61.31,1103.58
+East,Store_8,2020-06-24,Toys,14,113.91,1594.74
+East,Store_15,2020-12-14,Home & Kitchen,18,152.22,2739.96
+East,Store_10,2021-08-27,Toys,3,462.64,1387.92
+East,Store_13,2021-11-06,Clothing,3,357.67,1073.01
+East,Store_15,2021-05-06,Toys,13,83.15,1080.95
+East,Store_13,2020-08-30,Electronics,1,374.43,374.43
+East,Store_14,2021-01-19,Home & Kitchen,2,459.67,919.34
+East,Store_7,2020-02-28,Clothing,7,339.22,2374.54
+East,Store_8,2021-03-10,Clothing,18,493.21,8877.779999999999
+East,Store_9,2020-12-15,Sports,3,365.45,1096.35
+East,Store_1,2020-08-06,Home & Kitchen,5,70.45,352.25
+East,Store_2,2021-04-25,Electronics,3,281.87,845.61
+East,Store_8,2020-01-21,Clothing,11,445.93,4905.2300000000005
+East,Store_17,2020-08-09,Clothing,15,78.27,1174.05
+East,Store_5,2021-06-17,Clothing,10,86.68,866.8000000000001
+East,Store_11,2020-11-19,Electronics,13,353.89,4600.57
+East,Store_20,2021-01-30,Sports,18,465.49,8378.82
+East,Store_16,2020-12-12,Electronics,1,182.16,182.16
+East,Store_20,2020-04-26,Toys,17,18.95,322.15
+East,Store_3,2021-11-26,Clothing,19,490.58,9321.02
+East,Store_3,2021-10-15,Electronics,17,386.95,6578.15
+East,Store_1,2020-01-04,Electronics,16,59.84,957.44
+East,Store_20,2021-11-05,Electronics,17,86.92,1477.64
+East,Store_20,2021-06-05,Electronics,8,272.63,2181.04
+East,Store_20,2021-02-14,Electronics,6,419.69,2518.14
+East,Store_18,2021-06-18,Home & Kitchen,9,116.31,1046.79
+East,Store_2,2020-08-25,Toys,9,424.98,3824.82
+East,Store_13,2021-02-21,Sports,16,95.95,1535.2
+East,Store_10,2020-06-04,Home & Kitchen,4,49.6,198.4
+East,Store_17,2021-03-30,Sports,15,355.43,5331.45
+East,Store_9,2021-05-03,Clothing,16,65.49,1047.84
+East,Store_3,2021-03-05,Toys,15,288.11,4321.650000000001
+East,Store_4,2020-10-02,Toys,17,37.73,641.41
+East,Store_5,2021-09-29,Clothing,13,223.19,2901.47
+East,Store_3,2020-05-22,Clothing,3,98.86,296.58
+East,Store_18,2020-11-20,Home & Kitchen,2,465.99,931.98
+East,Store_20,2020-03-22,Clothing,2,252.69,505.38
+East,Store_19,2020-09-02,Toys,2,428.36,856.72
+East,Store_8,2021-02-21,Home & Kitchen,11,457.7,5034.7
+East,Store_20,2021-02-25,Sports,3,116.05,348.15
+East,Store_5,2020-06-13,Electronics,14,312.44,4374.16
+East,Store_15,2020-10-12,Electronics,15,107.02,1605.3
+East,Store_6,2021-05-25,Toys,1,83.09,83.09
+East,Store_7,2021-05-02,Home & Kitchen,18,429.28,7727.039999999999
+East,Store_15,2021-10-03,Sports,9,37.02,333.18
+East,Store_18,2020-12-24,Clothing,7,10.5,73.5
+East,Store_17,2021-03-08,Clothing,7,330.16,2311.1200000000003
+East,Store_9,2020-04-07,Toys,6,407.95,2447.7
+East,Store_12,2021-05-22,Toys,19,28.91,549.29
+East,Store_10,2021-12-11,Home & Kitchen,6,22.17,133.02
+East,Store_12,2021-08-17,Home & Kitchen,12,134.95,1619.4
+East,Store_11,2020-07-10,Home & Kitchen,11,403.56,4439.16
+East,Store_1,2020-12-09,Clothing,6,235.77,1414.62
+East,Store_19,2020-10-07,Electronics,19,200.47,3808.93
+East,Store_3,2020-02-15,Home & Kitchen,8,302.27,2418.16
+East,Store_2,2021-05-14,Clothing,15,222.18,3332.7000000000003
+East,Store_14,2020-07-05,Clothing,17,124.1,2109.7
+East,Store_20,2021-02-15,Electronics,9,364.23,3278.07
+East,Store_7,2020-08-20,Sports,4,385.09,1540.36
+East,Store_11,2020-11-11,Toys,1,104.65,104.65
+East,Store_13,2021-04-19,Electronics,5,430.56,2152.8
+East,Store_13,2021-01-21,Clothing,9,443.0,3987.0
+East,Store_18,2021-08-11,Sports,1,191.01,191.01
+East,Store_2,2021-12-23,Home & Kitchen,13,368.22,4786.860000000001
+East,Store_10,2020-08-03,Toys,14,229.44,3212.16
+East,Store_13,2021-11-11,Sports,11,400.95,4410.45
+East,Store_3,2021-12-28,Clothing,11,409.51,4504.61
+East,Store_3,2020-07-01,Electronics,18,391.1,7039.8
+East,Store_14,2021-11-10,Home & Kitchen,12,84.59,1015.08
+East,Store_14,2020-12-15,Sports,6,161.66,969.96
+East,Store_16,2020-12-24,Electronics,14,262.62,3676.68
+East,Store_17,2021-10-27,Sports,19,487.23,9257.37
+East,Store_11,2020-03-11,Home & Kitchen,3,379.76,1139.28
+East,Store_7,2020-12-02,Sports,14,461.7,6463.8
+East,Store_7,2020-01-07,Home & Kitchen,6,300.04,1800.2400000000002
+East,Store_13,2021-06-20,Toys,4,248.81,995.24
+East,Store_18,2020-06-09,Home & Kitchen,17,142.33,2419.61
+East,Store_18,2021-08-06,Home & Kitchen,1,333.32,333.32
+East,Store_20,2020-04-16,Sports,1,371.82,371.82
+East,Store_14,2020-11-01,Sports,6,9.06,54.36
+East,Store_12,2020-12-23,Home & Kitchen,15,154.49,2317.3500000000004
+East,Store_19,2021-05-19,Electronics,10,306.22,3062.2000000000003
+East,Store_9,2020-08-30,Electronics,13,222.07,2886.91
+East,Store_12,2020-06-27,Toys,14,283.96,3975.44
+East,Store_1,2020-03-28,Sports,6,437.63,2625.78
+East,Store_2,2020-02-22,Toys,11,440.32,4843.52
+East,Store_12,2020-06-03,Sports,8,488.96,3911.68
+East,Store_4,2021-03-23,Toys,2,357.86,715.72
+East,Store_1,2020-07-22,Sports,12,223.04,2676.48
+East,Store_12,2021-03-18,Clothing,1,320.11,320.11
+East,Store_13,2021-10-26,Toys,16,444.06,7104.96
+East,Store_19,2020-01-28,Sports,15,266.89,4003.35
+East,Store_10,2020-07-18,Sports,2,211.17,422.34
+East,Store_19,2020-08-24,Home & Kitchen,4,354.43,1417.72
+East,Store_5,2021-06-21,Sports,19,245.04,4655.76
+East,Store_11,2021-03-07,Clothing,12,403.48,4841.76
+East,Store_7,2021-06-19,Electronics,18,481.08,8659.44
+East,Store_6,2020-02-22,Electronics,12,262.25,3147.0
+East,Store_7,2021-02-05,Sports,14,292.99,4101.860000000001
+East,Store_15,2020-03-21,Toys,14,428.16,5994.240000000001
+East,Store_12,2020-02-13,Clothing,3,153.03,459.09
+East,Store_1,2020-04-01,Sports,17,42.73,726.41
+East,Store_11,2021-10-01,Sports,15,243.49,3652.35
+East,Store_16,2021-09-30,Clothing,19,160.76,3054.44
+East,Store_1,2021-01-19,Home & Kitchen,6,416.22,2497.32
+East,Store_19,2021-10-20,Sports,6,256.58,1539.48
+East,Store_17,2021-03-04,Clothing,15,116.31,1744.65
+East,Store_1,2020-06-18,Sports,2,318.21,636.42
+East,Store_10,2020-10-15,Toys,18,267.95,4823.099999999999
+East,Store_13,2020-11-01,Electronics,3,220.61,661.83
+East,Store_8,2021-12-20,Home & Kitchen,14,152.36,2133.04
+East,Store_14,2021-08-21,Home & Kitchen,9,148.52,1336.68
+East,Store_4,2021-07-22,Clothing,13,404.18,5254.34
+East,Store_5,2021-10-25,Toys,11,467.33,5140.63
+East,Store_9,2021-01-22,Electronics,2,125.27,250.54
+East,Store_3,2020-05-18,Electronics,5,389.89,1949.45
+East,Store_19,2020-10-20,Toys,5,127.25,636.25
+East,Store_11,2020-01-24,Toys,5,135.71,678.5500000000001
+East,Store_3,2021-10-22,Electronics,4,397.94,1591.76
+East,Store_14,2020-11-22,Electronics,7,479.2,3354.4
+East,Store_16,2020-07-16,Toys,15,298.19,4472.85
+East,Store_12,2020-04-06,Sports,12,310.25,3723.0
+East,Store_14,2020-06-01,Electronics,13,178.97,2326.61
+East,Store_11,2020-11-14,Clothing,11,268.88,2957.68
+East,Store_11,2021-07-11,Electronics,5,73.01,365.05
+East,Store_2,2021-12-18,Clothing,16,414.97,6639.52
+East,Store_6,2021-09-22,Toys,15,465.01,6975.15
+East,Store_10,2020-05-14,Sports,4,149.02,596.08
+East,Store_7,2020-08-23,Sports,17,429.89,7308.13
+East,Store_18,2021-10-04,Home & Kitchen,11,334.84,3683.24
+East,Store_3,2020-08-14,Sports,1,55.09,55.09
+East,Store_16,2020-05-24,Clothing,8,300.0,2400.0
+East,Store_13,2021-06-08,Toys,5,275.66,1378.3000000000002
+East,Store_17,2021-10-22,Sports,1,276.19,276.19
+East,Store_3,2020-09-29,Clothing,19,203.76,3871.44
+East,Store_15,2020-12-14,Toys,11,267.7,2944.7
+East,Store_1,2021-11-08,Home & Kitchen,5,389.54,1947.7
+East,Store_1,2020-03-01,Home & Kitchen,16,128.24,2051.84
+East,Store_14,2020-04-18,Home & Kitchen,1,313.54,313.54
+East,Store_9,2021-12-27,Toys,16,195.43,3126.88
+East,Store_8,2021-04-19,Electronics,4,407.96,1631.84
+East,Store_13,2021-06-27,Sports,5,69.37,346.85
+East,Store_11,2021-02-26,Clothing,12,273.11,3277.32
+East,Store_15,2021-06-07,Home & Kitchen,5,328.91,1644.5500000000002
+East,Store_15,2020-07-02,Toys,8,140.32,1122.56
+East,Store_4,2021-10-29,Home & Kitchen,15,114.57,1718.55
+East,Store_4,2020-03-18,Home & Kitchen,19,306.78,5828.82
+East,Store_17,2020-09-19,Sports,16,166.13,2658.08
+East,Store_15,2020-03-17,Clothing,11,437.91,4817.01
+East,Store_2,2020-12-22,Clothing,7,202.6,1418.2
+East,Store_10,2020-10-16,Sports,16,256.63,4106.08
+East,Store_11,2021-05-01,Home & Kitchen,7,431.98,3023.86
+East,Store_2,2020-05-09,Sports,1,146.67,146.67
+East,Store_17,2021-11-18,Sports,16,183.22,2931.52
+East,Store_13,2021-03-05,Sports,19,235.89,4481.91
+East,Store_20,2021-03-02,Sports,14,191.05,2674.7000000000003
+East,Store_12,2020-04-29,Electronics,16,165.87,2653.92
+East,Store_11,2020-11-17,Sports,12,338.39,4060.68
+East,Store_19,2021-06-23,Toys,17,434.2,7381.4
+East,Store_8,2020-07-09,Toys,12,291.5,3498.0
+East,Store_13,2020-12-23,Sports,6,499.53,2997.18
+East,Store_5,2021-10-30,Electronics,14,429.14,6007.96
+East,Store_8,2021-09-08,Home & Kitchen,8,237.52,1900.16
+East,Store_17,2020-02-07,Sports,12,176.79,2121.48
+East,Store_15,2020-07-06,Electronics,15,230.2,3453.0
+East,Store_12,2020-10-29,Electronics,13,43.94,571.22
+East,Store_6,2020-01-13,Home & Kitchen,15,193.24,2898.6000000000004
+East,Store_3,2021-05-24,Home & Kitchen,9,228.09,2052.81
+East,Store_3,2020-07-07,Home & Kitchen,3,142.69,428.07
+East,Store_14,2020-11-14,Sports,3,169.64,508.92
+East,Store_15,2021-08-26,Clothing,2,435.67,871.34
+East,Store_2,2020-06-11,Home & Kitchen,6,172.81,1036.86
+East,Store_15,2021-03-20,Sports,14,227.07,3178.98
+East,Store_5,2020-02-11,Home & Kitchen,13,255.68,3323.84
+East,Store_11,2020-09-04,Clothing,9,205.58,1850.22
+East,Store_2,2021-05-01,Home & Kitchen,11,358.0,3938.0
+East,Store_16,2020-04-10,Toys,16,110.25,1764.0
+East,Store_12,2020-11-23,Sports,13,349.58,4544.54
+East,Store_6,2021-08-28,Toys,18,34.75,625.5
+East,Store_14,2021-02-20,Clothing,15,375.92,5638.8
+East,Store_20,2020-08-07,Electronics,13,286.2,3720.6
+East,Store_6,2020-01-20,Sports,7,310.51,2173.57
+East,Store_10,2021-01-30,Clothing,15,463.59,6953.849999999999
+East,Store_7,2021-08-07,Electronics,8,50.07,400.56
+East,Store_6,2021-12-25,Home & Kitchen,8,244.22,1953.76
+East,Store_7,2020-02-20,Electronics,9,214.28,1928.52
+East,Store_2,2020-07-19,Electronics,8,289.17,2313.36
+East,Store_15,2021-01-05,Toys,8,41.52,332.16
+East,Store_1,2020-07-17,Toys,4,241.91,967.64
+East,Store_5,2020-07-17,Toys,17,35.02,595.34
+East,Store_18,2021-03-03,Toys,15,64.05,960.75
+East,Store_6,2021-07-09,Sports,14,487.11,6819.54
+East,Store_5,2021-11-29,Sports,5,455.12,2275.6
+East,Store_9,2021-08-15,Toys,9,6.21,55.89
+East,Store_5,2021-08-03,Clothing,19,10.98,208.62
+East,Store_7,2020-12-09,Sports,19,179.36,3407.84
+East,Store_5,2020-08-25,Sports,6,488.07,2928.42
+East,Store_8,2020-10-11,Toys,13,125.94,1637.22
+East,Store_19,2021-06-16,Clothing,8,114.37,914.96
+East,Store_17,2020-09-17,Clothing,3,73.6,220.8
+East,Store_15,2021-05-03,Clothing,17,355.52,6043.84
+East,Store_13,2021-04-08,Electronics,7,238.54,1669.78
+East,Store_17,2021-12-08,Sports,14,308.04,4312.56
+East,Store_9,2020-01-27,Electronics,18,85.2,1533.6
+East,Store_14,2020-03-28,Sports,19,12.77,242.63
+East,Store_5,2020-01-15,Clothing,1,275.81,275.81
+East,Store_15,2021-08-07,Clothing,17,446.82,7595.94
+East,Store_8,2021-10-29,Toys,7,112.5,787.5
+East,Store_7,2020-06-12,Sports,17,160.64,2730.88
+East,Store_15,2020-07-31,Sports,17,410.94,6985.98
+East,Store_3,2020-06-10,Electronics,15,369.83,5547.45
+East,Store_5,2020-03-03,Clothing,18,377.51,6795.18
+East,Store_7,2021-06-22,Toys,18,36.81,662.58
+East,Store_17,2021-04-20,Home & Kitchen,16,215.8,3452.8
+East,Store_1,2020-03-07,Sports,6,247.01,1482.06
+East,Store_11,2021-10-21,Toys,17,140.4,2386.8
+East,Store_1,2020-12-18,Sports,11,326.3,3589.3
+East,Store_3,2021-05-10,Home & Kitchen,13,149.06,1937.78
+East,Store_12,2021-07-16,Home & Kitchen,15,478.32,7174.8
+East,Store_11,2021-06-20,Clothing,15,233.99,3509.8500000000004
+East,Store_7,2020-05-31,Sports,18,489.73,8815.14
+East,Store_3,2021-03-28,Toys,12,337.61,4051.32
+East,Store_19,2021-01-06,Home & Kitchen,19,254.38,4833.22
+East,Store_1,2021-07-17,Toys,5,421.49,2107.45
+East,Store_12,2020-04-14,Clothing,16,482.06,7712.96
+East,Store_18,2020-04-17,Sports,1,31.91,31.91
+East,Store_20,2020-07-13,Clothing,9,428.38,3855.42
+East,Store_6,2020-11-03,Electronics,4,343.61,1374.44
+East,Store_8,2020-04-14,Home & Kitchen,2,340.13,680.26
+East,Store_20,2020-07-17,Electronics,1,34.56,34.56
+East,Store_16,2021-06-17,Toys,12,396.72,4760.64
+East,Store_6,2020-04-13,Toys,3,119.34,358.02
+East,Store_15,2021-06-21,Clothing,18,204.44,3679.92
+East,Store_12,2020-11-29,Toys,6,432.98,2597.88
+East,Store_9,2020-01-29,Clothing,16,364.16,5826.56
+East,Store_15,2020-04-14,Home & Kitchen,7,230.72,1615.04
+East,Store_1,2020-01-29,Sports,4,214.57,858.28
+East,Store_16,2020-01-17,Home & Kitchen,1,92.21,92.21
+East,Store_20,2020-09-22,Electronics,15,337.67,5065.05
+East,Store_16,2021-09-05,Electronics,17,126.95,2158.15
+East,Store_5,2021-09-08,Clothing,8,23.58,188.64
+East,Store_12,2021-06-25,Electronics,10,481.15,4811.5
+East,Store_2,2021-11-17,Toys,7,278.42,1948.94
+East,Store_3,2021-08-28,Home & Kitchen,11,165.17,1816.87
+East,Store_4,2021-06-14,Electronics,13,324.74,4221.62
+East,Store_16,2021-12-18,Sports,8,108.76,870.08
+East,Store_8,2021-05-17,Clothing,5,401.62,2008.1
+East,Store_1,2020-10-05,Electronics,12,176.16,2113.92
+East,Store_16,2020-11-10,Clothing,15,298.39,4475.849999999999
+East,Store_11,2021-01-28,Home & Kitchen,12,456.68,5480.16
+East,Store_1,2021-09-03,Electronics,15,180.35,2705.25
+East,Store_9,2020-09-19,Home & Kitchen,7,210.84,1475.88
+East,Store_11,2020-03-02,Sports,1,172.01,172.01
+East,Store_6,2021-04-04,Sports,9,175.37,1578.33
+East,Store_19,2020-08-19,Toys,18,177.43,3193.74
+East,Store_15,2021-12-09,Home & Kitchen,16,413.56,6616.96
+East,Store_14,2020-04-27,Sports,9,271.6,2444.4
+East,Store_13,2021-09-13,Clothing,17,282.85,4808.450000000001
+East,Store_10,2021-10-13,Electronics,18,19.68,354.24
+East,Store_14,2020-05-30,Toys,7,166.55,1165.85
+East,Store_18,2020-07-19,Toys,9,284.59,2561.31
+East,Store_19,2020-02-23,Clothing,13,213.66,2777.58
+East,Store_20,2021-02-14,Home & Kitchen,1,377.45,377.45
+East,Store_2,2020-07-06,Clothing,12,69.22,830.64
+East,Store_17,2020-06-16,Electronics,14,63.63,890.82
+East,Store_3,2020-12-20,Home & Kitchen,8,473.39,3787.12
+East,Store_12,2021-05-10,Sports,17,485.17,8247.89
+East,Store_4,2020-05-13,Electronics,6,23.31,139.86
+East,Store_18,2021-07-21,Sports,2,25.45,50.9
+East,Store_3,2020-05-10,Clothing,7,167.71,1173.97
+East,Store_20,2020-05-04,Home & Kitchen,14,30.93,433.02
+East,Store_20,2020-11-25,Sports,14,297.81,4169.34
+East,Store_18,2021-06-26,Toys,10,173.52,1735.2
+East,Store_12,2021-05-29,Clothing,4,379.61,1518.44
+East,Store_10,2021-02-16,Sports,6,413.6,2481.6000000000004
+East,Store_18,2021-02-07,Clothing,15,318.15,4772.25
+East,Store_20,2021-06-09,Sports,1,261.72,261.72
+East,Store_18,2021-12-13,Electronics,19,448.76,8526.44
+East,Store_5,2020-09-02,Clothing,7,6.5,45.5
+East,Store_15,2020-05-18,Electronics,14,36.25,507.5
+East,Store_15,2021-11-21,Electronics,19,292.41,5555.790000000001
+East,Store_17,2021-11-08,Electronics,16,241.4,3862.4
+East,Store_1,2021-06-21,Electronics,3,105.85,317.54999999999995
+East,Store_19,2020-08-18,Sports,3,275.73,827.19
+East,Store_11,2021-12-30,Sports,8,162.62,1300.96
+East,Store_11,2020-07-06,Clothing,14,143.13,2003.82
+East,Store_1,2021-06-11,Toys,11,346.79,3814.69
+East,Store_19,2020-01-11,Home & Kitchen,8,223.02,1784.16
+East,Store_11,2020-12-26,Clothing,10,402.03,4020.3
+East,Store_20,2021-12-29,Electronics,17,196.36,3338.1200000000003
+East,Store_16,2020-11-25,Toys,3,297.01,891.03
+East,Store_16,2021-09-04,Home & Kitchen,14,114.73,1606.22
+East,Store_19,2021-09-10,Sports,12,218.17,2618.04
+East,Store_6,2020-07-23,Toys,17,53.58,910.86
+East,Store_7,2020-03-13,Home & Kitchen,7,372.76,2609.32
+East,Store_16,2021-04-23,Electronics,8,371.89,2975.12
+East,Store_1,2021-09-23,Sports,3,398.01,1194.03
+East,Store_20,2021-02-23,Clothing,8,85.46,683.68
+East,Store_10,2020-04-01,Clothing,17,284.43,4835.31
+East,Store_14,2021-11-05,Electronics,3,12.33,36.99
+East,Store_4,2020-12-23,Clothing,16,121.66,1946.56
+East,Store_1,2021-04-04,Sports,3,141.52,424.56000000000006
+East,Store_7,2021-01-21,Toys,5,448.59,2242.95
+East,Store_16,2020-09-09,Clothing,15,391.5,5872.5
+East,Store_10,2021-08-08,Sports,19,399.17,7584.23
+East,Store_11,2021-06-04,Home & Kitchen,4,132.03,528.12
+East,Store_2,2021-10-28,Electronics,3,107.35,322.04999999999995
+East,Store_8,2021-09-13,Toys,18,12.7,228.6
+East,Store_1,2021-02-08,Clothing,15,81.08,1216.2
+East,Store_5,2020-04-06,Clothing,19,148.59,2823.21
+East,Store_4,2021-02-13,Toys,12,137.94,1655.28
+East,Store_3,2021-05-22,Sports,10,12.58,125.8
+East,Store_6,2021-12-04,Sports,2,285.14,570.28
+East,Store_16,2021-12-13,Toys,11,86.04,946.44
+East,Store_2,2020-03-01,Clothing,17,78.14,1328.38
+East,Store_14,2020-05-30,Clothing,13,410.0,5330.0
+East,Store_6,2021-02-23,Home & Kitchen,16,137.43,2198.88
+East,Store_18,2021-03-02,Toys,2,470.67,941.34
+East,Store_4,2020-02-11,Electronics,2,282.59,565.18
+East,Store_20,2020-12-09,Electronics,15,72.24,1083.6
+East,Store_10,2020-08-05,Clothing,18,360.8,6494.400000000001
+East,Store_19,2021-06-17,Toys,18,404.57,7282.26
+East,Store_1,2021-06-05,Toys,5,287.44,1437.2
+East,Store_5,2021-11-28,Home & Kitchen,15,119.82,1797.3
+East,Store_8,2020-06-15,Home & Kitchen,2,486.83,973.66
+East,Store_11,2021-09-15,Clothing,9,243.22,2188.98
+East,Store_15,2020-05-10,Electronics,8,74.6,596.8
+East,Store_10,2020-04-22,Sports,15,8.11,121.65
+East,Store_9,2020-05-19,Toys,12,413.19,4958.28
+East,Store_10,2021-05-03,Clothing,1,49.07,49.07
+East,Store_1,2021-06-02,Home & Kitchen,10,296.17,2961.7000000000003
+East,Store_14,2021-03-01,Clothing,8,259.75,2078.0
+East,Store_6,2020-09-23,Sports,13,317.87,4132.31
+East,Store_18,2020-06-15,Toys,18,123.47,2222.46
+East,Store_7,2021-03-21,Toys,10,43.4,434.0
+East,Store_12,2020-10-21,Electronics,10,247.76,2477.6
+East,Store_7,2021-05-03,Home & Kitchen,19,54.92,1043.48
+East,Store_7,2021-11-24,Sports,12,256.71,3080.5199999999995
+East,Store_16,2020-11-04,Electronics,12,487.09,5845.08
+East,Store_15,2021-01-01,Sports,7,244.21,1709.47
+East,Store_20,2020-10-02,Sports,8,276.4,2211.2
+East,Store_8,2021-12-04,Clothing,10,56.95,569.5
+East,Store_2,2021-09-07,Clothing,8,451.75,3614.0
+East,Store_9,2021-03-06,Clothing,12,245.9,2950.8
+East,Store_19,2021-06-18,Clothing,8,404.7,3237.6
+East,Store_5,2020-11-06,Sports,6,315.14,1890.84
+East,Store_15,2021-07-31,Sports,2,6.12,12.24
+East,Store_15,2020-10-30,Toys,2,262.48,524.96
+East,Store_19,2020-09-05,Clothing,19,454.37,8633.03
+East,Store_1,2020-05-07,Sports,3,386.3,1158.9
+East,Store_2,2021-06-22,Home & Kitchen,16,75.65,1210.4
+East,Store_13,2021-06-18,Electronics,1,12.79,12.79
+East,Store_10,2020-05-10,Home & Kitchen,13,176.91,2299.83
+East,Store_8,2021-03-23,Sports,9,216.36,1947.24
+East,Store_12,2020-04-17,Toys,4,193.13,772.52
+East,Store_10,2020-03-28,Electronics,9,392.21,3529.89
+East,Store_20,2020-10-16,Electronics,14,237.81,3329.34
+East,Store_5,2020-08-06,Sports,7,297.27,2080.89
+East,Store_9,2020-09-02,Home & Kitchen,12,328.87,3946.44
+East,Store_13,2020-04-25,Sports,3,316.02,948.06
+East,Store_10,2020-02-22,Toys,8,19.72,157.76
+East,Store_18,2021-03-17,Sports,1,151.72,151.72
+East,Store_19,2021-06-08,Sports,19,179.16,3404.04
+East,Store_3,2021-09-20,Sports,4,110.16,440.64
+East,Store_1,2021-06-15,Electronics,8,277.84,2222.72
+East,Store_16,2020-05-27,Toys,14,260.13,3641.82
+East,Store_10,2021-04-30,Clothing,7,300.12,2100.84
+East,Store_2,2020-09-09,Home & Kitchen,7,479.92,3359.44
+East,Store_7,2021-12-20,Clothing,12,355.49,4265.88
+East,Store_1,2021-06-07,Clothing,3,89.29,267.87
+East,Store_20,2021-03-24,Electronics,12,414.65,4975.799999999999
+East,Store_7,2021-07-31,Electronics,14,446.36,6249.04
+East,Store_4,2021-10-29,Home & Kitchen,18,380.97,6857.460000000001
+East,Store_1,2020-11-05,Home & Kitchen,13,45.16,587.0799999999999
+East,Store_6,2020-11-05,Clothing,14,226.14,3165.96
+East,Store_13,2021-01-19,Clothing,15,102.73,1540.95
+East,Store_11,2020-02-10,Home & Kitchen,1,20.81,20.81
+East,Store_15,2021-05-04,Sports,4,381.24,1524.96
+East,Store_1,2020-04-20,Toys,16,77.03,1232.48
+East,Store_11,2020-11-07,Home & Kitchen,7,330.97,2316.79
+East,Store_8,2021-05-19,Toys,19,180.55,3430.4500000000003
+East,Store_16,2021-09-17,Sports,14,401.12,5615.68
+East,Store_9,2021-02-24,Toys,7,377.1,2639.7000000000003
+East,Store_19,2020-06-05,Toys,16,414.21,6627.36
+East,Store_15,2021-01-25,Toys,9,313.58,2822.22
+East,Store_16,2020-04-27,Clothing,15,167.56,2513.4
+East,Store_7,2020-11-22,Sports,6,277.02,1662.12
+East,Store_16,2021-10-09,Toys,11,113.13,1244.4299999999998
+East,Store_6,2021-08-15,Home & Kitchen,12,219.52,2634.24
+East,Store_3,2020-07-13,Electronics,7,161.06,1127.42
+East,Store_11,2020-05-02,Toys,16,326.27,5220.32
+East,Store_15,2021-06-09,Electronics,17,454.53,7727.009999999999
+East,Store_4,2021-03-23,Toys,10,375.06,3750.6
+East,Store_13,2020-10-01,Clothing,5,218.44,1092.2
+East,Store_7,2021-05-15,Sports,13,45.49,591.37
+East,Store_9,2020-03-06,Clothing,7,447.97,3135.79
+East,Store_20,2020-09-15,Toys,9,109.13,982.17
+East,Store_1,2020-10-18,Sports,13,330.27,4293.51
+East,Store_12,2020-04-27,Sports,15,296.35,4445.25
+East,Store_13,2021-05-13,Home & Kitchen,14,257.51,3605.14
+East,Store_4,2020-08-06,Sports,2,154.75,309.5
+East,Store_14,2021-09-11,Sports,12,76.38,916.56
+East,Store_20,2021-08-10,Sports,3,151.33,453.99
+East,Store_12,2021-10-21,Electronics,18,52.27,940.86
+East,Store_13,2020-01-13,Toys,2,329.04,658.08
+East,Store_10,2020-06-23,Toys,5,291.65,1458.25
+East,Store_11,2021-10-25,Toys,3,343.61,1030.83
+East,Store_10,2020-08-05,Electronics,1,111.28,111.28
+East,Store_12,2020-01-27,Electronics,1,123.99,123.99
+East,Store_16,2021-03-25,Home & Kitchen,5,80.45,402.25
+East,Store_17,2020-12-16,Sports,13,444.98,5784.74
+East,Store_13,2020-07-08,Electronics,14,386.28,5407.92
+East,Store_7,2021-02-24,Home & Kitchen,11,20.81,228.91
+East,Store_19,2020-05-10,Home & Kitchen,3,161.07,483.21
+East,Store_17,2020-02-23,Clothing,18,158.2,2847.6
+East,Store_15,2020-11-25,Toys,19,184.87,3512.53
+East,Store_15,2021-10-12,Sports,12,229.99,2759.88
+East,Store_9,2021-01-17,Home & Kitchen,12,275.25,3303.0
+East,Store_5,2020-09-09,Clothing,15,68.93,1033.95
+East,Store_19,2021-06-25,Electronics,9,253.56,2282.04
+East,Store_1,2021-11-29,Sports,11,421.5,4636.5
+East,Store_1,2020-01-06,Clothing,3,80.14,240.42
+East,Store_6,2020-05-21,Sports,10,72.59,725.9000000000001
+East,Store_4,2021-12-08,Sports,17,257.56,4378.52
+East,Store_7,2021-06-17,Clothing,9,462.97,4166.7300000000005
+East,Store_5,2020-08-31,Sports,13,172.19,2238.47
+East,Store_5,2021-02-19,Clothing,17,27.11,460.87
+East,Store_7,2021-12-11,Sports,19,290.3,5515.7
+East,Store_11,2021-09-29,Home & Kitchen,12,222.58,2670.96
+East,Store_17,2020-01-15,Toys,11,110.79,1218.69
+East,Store_19,2021-06-12,Toys,19,274.19,5209.61
+East,Store_6,2021-09-08,Home & Kitchen,9,268.32,2414.88
+East,Store_3,2020-04-19,Clothing,19,306.01,5814.19
+East,Store_11,2020-04-19,Sports,19,18.19,345.61
+East,Store_16,2021-11-07,Sports,3,235.99,707.97
+East,Store_4,2020-06-02,Toys,1,52.4,52.4
+East,Store_12,2021-10-15,Sports,11,244.55,2690.05
+East,Store_14,2020-10-09,Home & Kitchen,4,100.56,402.24
+East,Store_20,2021-01-22,Toys,3,385.84,1157.52
+East,Store_1,2021-11-12,Electronics,17,25.95,441.15
+East,Store_6,2021-08-10,Sports,2,166.1,332.2
+East,Store_10,2020-12-09,Clothing,5,407.34,2036.7
+East,Store_20,2021-03-24,Toys,4,241.01,964.04
+East,Store_9,2021-01-16,Sports,2,11.26,22.52
+East,Store_15,2020-02-12,Electronics,6,389.55,2337.3
+East,Store_9,2021-08-18,Toys,15,65.71,985.65
+East,Store_13,2020-09-17,Electronics,12,492.77,5913.24
+East,Store_9,2021-03-22,Toys,10,174.71,1747.1
+East,Store_20,2020-04-16,Clothing,13,430.75,5599.75
+East,Store_10,2021-06-28,Sports,3,221.36,664.08
+East,Store_2,2021-07-16,Sports,9,371.62,3344.58
+East,Store_11,2021-01-16,Home & Kitchen,19,307.3,5838.7
+East,Store_3,2021-08-06,Sports,18,348.67,6276.06
+East,Store_2,2020-08-17,Home & Kitchen,2,15.19,30.38
+East,Store_13,2021-07-16,Sports,5,143.07,715.3499999999999
+East,Store_5,2020-06-04,Sports,13,468.48,6090.24
+East,Store_14,2021-09-08,Electronics,11,231.21,2543.31
+East,Store_11,2021-12-02,Sports,8,107.09,856.72
+East,Store_18,2021-05-08,Electronics,8,429.38,3435.04
+East,Store_9,2020-06-20,Clothing,4,438.84,1755.36
+East,Store_1,2020-07-02,Sports,7,279.0,1953.0
+East,Store_1,2020-11-10,Home & Kitchen,8,58.94,471.52
+East,Store_10,2020-09-30,Home & Kitchen,2,134.95,269.9
+East,Store_1,2021-03-26,Clothing,15,57.43,861.45
+East,Store_6,2021-05-04,Electronics,7,449.34,3145.38
+East,Store_17,2021-10-26,Sports,10,363.07,3630.7
+East,Store_20,2021-06-14,Toys,17,295.1,5016.700000000001
+East,Store_16,2020-05-23,Toys,7,327.9,2295.3
+East,Store_4,2020-08-13,Sports,3,475.21,1425.63
+East,Store_4,2020-06-09,Sports,6,33.38,200.28000000000003
+East,Store_16,2021-06-01,Toys,5,399.79,1998.95
+East,Store_13,2020-09-22,Toys,3,394.44,1183.32
+East,Store_2,2020-07-27,Sports,15,391.04,5865.6
+East,Store_15,2020-06-16,Home & Kitchen,16,418.43,6694.88
+East,Store_12,2020-07-17,Clothing,16,17.76,284.16
+East,Store_12,2021-11-18,Clothing,19,237.99,4521.81
+East,Store_4,2020-01-22,Clothing,10,104.41,1044.1
+East,Store_6,2020-05-26,Clothing,13,139.82,1817.66
+East,Store_20,2021-03-16,Clothing,16,421.21,6739.36
+East,Store_10,2020-06-16,Electronics,4,344.9,1379.6
+East,Store_9,2021-05-09,Sports,15,320.27,4804.049999999999
+East,Store_7,2020-07-04,Toys,5,265.55,1327.75
+East,Store_20,2020-07-08,Electronics,7,163.16,1142.12
+East,Store_1,2021-08-21,Sports,16,185.16,2962.56
+East,Store_16,2021-08-28,Toys,19,241.4,4586.6
+East,Store_15,2020-12-02,Electronics,17,470.16,7992.72
+East,Store_10,2020-07-02,Sports,10,451.87,4518.7
+East,Store_13,2021-07-28,Clothing,17,121.55,2066.35
+East,Store_7,2021-12-17,Sports,9,166.32,1496.88
+East,Store_17,2021-12-07,Sports,17,361.27,6141.59
+East,Store_9,2021-10-03,Toys,10,39.01,390.1
+East,Store_13,2021-10-01,Toys,8,325.95,2607.6
+East,Store_13,2020-02-08,Home & Kitchen,19,39.69,754.1099999999999
+East,Store_2,2020-12-10,Electronics,14,418.6,5860.400000000001
+East,Store_12,2020-06-18,Home & Kitchen,2,390.69,781.38
+East,Store_6,2020-08-31,Home & Kitchen,5,386.29,1931.45
+East,Store_15,2020-11-02,Electronics,5,327.13,1635.65
+East,Store_3,2020-04-23,Sports,10,162.05,1620.5
+East,Store_19,2020-09-25,Clothing,10,346.49,3464.9
+East,Store_5,2020-01-16,Toys,4,285.39,1141.56
+East,Store_17,2021-02-18,Electronics,9,214.06,1926.54
+East,Store_16,2020-09-20,Electronics,13,22.05,286.65000000000003
+East,Store_16,2020-11-15,Toys,8,330.53,2644.24
+East,Store_12,2021-10-02,Clothing,3,390.24,1170.72
+East,Store_18,2020-04-05,Clothing,14,161.39,2259.46
+East,Store_1,2020-07-17,Sports,1,192.68,192.68
+East,Store_1,2020-01-17,Electronics,3,211.69,635.0699999999999
+East,Store_13,2021-12-14,Sports,9,16.4,147.6
+East,Store_3,2020-07-10,Clothing,17,487.47,8286.99
+East,Store_13,2020-12-14,Home & Kitchen,2,472.46,944.92
+East,Store_13,2020-02-03,Toys,12,228.3,2739.6000000000004
+East,Store_20,2021-06-07,Home & Kitchen,13,398.29,5177.77
+East,Store_10,2021-12-19,Home & Kitchen,13,457.2,5943.599999999999
+East,Store_20,2020-10-10,Electronics,5,91.75,458.75
+East,Store_17,2021-01-05,Toys,15,495.69,7435.35
+East,Store_14,2020-06-03,Toys,13,436.96,5680.48
+East,Store_12,2020-10-21,Toys,9,400.06,3600.54
+East,Store_10,2021-03-01,Sports,16,302.85,4845.6
+East,Store_5,2021-07-08,Electronics,12,371.24,4454.88
+East,Store_7,2021-09-27,Clothing,8,461.16,3689.28
+East,Store_4,2021-08-13,Clothing,3,332.05,996.15
+East,Store_15,2020-10-10,Sports,17,220.97,3756.49
+East,Store_2,2020-07-02,Home & Kitchen,15,250.65,3759.75
+East,Store_17,2021-03-19,Sports,5,438.05,2190.25
+East,Store_19,2020-09-21,Sports,12,260.58,3126.96
+East,Store_20,2020-07-24,Home & Kitchen,10,482.44,4824.4
+East,Store_12,2021-06-26,Electronics,19,62.05,1178.95
+East,Store_19,2020-03-18,Sports,3,325.11,975.33
+East,Store_5,2021-01-16,Clothing,4,367.42,1469.68
+East,Store_4,2021-10-11,Toys,6,223.32,1339.92
+East,Store_9,2021-06-17,Toys,2,61.95,123.9
+East,Store_6,2021-10-29,Toys,16,173.39,2774.24
+East,Store_18,2021-05-09,Clothing,6,211.04,1266.24
+East,Store_20,2021-08-02,Toys,12,265.97,3191.6400000000003
+East,Store_7,2020-12-04,Clothing,16,260.27,4164.32
+East,Store_7,2021-04-29,Home & Kitchen,11,166.42,1830.62
+East,Store_2,2020-12-03,Electronics,2,375.35,750.7
+East,Store_17,2020-02-15,Toys,14,460.38,6445.32
+East,Store_14,2021-01-03,Home & Kitchen,18,122.36,2202.48
+East,Store_6,2020-09-22,Sports,5,470.1,2350.5
+East,Store_2,2021-02-02,Clothing,10,318.79,3187.9
+East,Store_11,2020-03-11,Sports,1,123.39,123.39
+East,Store_3,2020-01-11,Toys,16,395.43,6326.88
+East,Store_11,2020-10-09,Clothing,6,245.67,1474.02
+East,Store_5,2020-02-21,Sports,6,247.72,1486.32
+East,Store_10,2021-09-05,Toys,14,334.95,4689.3
+East,Store_11,2021-12-29,Home & Kitchen,18,26.51,477.18
+East,Store_4,2020-02-23,Sports,5,453.99,2269.95
+East,Store_9,2020-12-15,Toys,6,408.85,2453.1000000000004
+East,Store_1,2021-01-16,Electronics,19,367.89,6989.91
+East,Store_17,2021-04-09,Electronics,2,256.52,513.04
+East,Store_8,2021-06-20,Clothing,15,358.64,5379.599999999999
+East,Store_19,2021-03-28,Electronics,4,203.01,812.04
+East,Store_18,2020-04-11,Clothing,10,171.25,1712.5
+East,Store_16,2020-12-23,Home & Kitchen,16,153.58,2457.28
+East,Store_12,2020-07-26,Home & Kitchen,16,499.76,7996.16
+East,Store_19,2020-12-06,Home & Kitchen,4,52.72,210.88
+East,Store_13,2020-11-12,Home & Kitchen,11,477.92,5257.12
+East,Store_7,2021-12-01,Electronics,11,49.08,539.88
+East,Store_7,2021-10-03,Toys,16,390.37,6245.92
+East,Store_19,2021-10-01,Toys,18,26.65,479.7
+East,Store_3,2020-12-18,Home & Kitchen,16,195.34,3125.44
+East,Store_19,2021-11-27,Clothing,2,268.54,537.08
+East,Store_6,2021-02-18,Electronics,16,353.34,5653.44
+East,Store_7,2020-01-24,Sports,8,109.87,878.96
+East,Store_6,2020-01-04,Sports,1,12.96,12.96
+East,Store_20,2020-11-06,Toys,5,458.98,2294.9
+East,Store_11,2020-02-05,Home & Kitchen,7,400.89,2806.23
+East,Store_3,2021-09-30,Sports,14,96.43,1350.02
+East,Store_10,2020-07-04,Electronics,5,202.08,1010.4
+East,Store_14,2021-07-05,Clothing,8,265.3,2122.4
+East,Store_1,2020-09-03,Home & Kitchen,14,208.75,2922.5
+East,Store_6,2020-11-16,Sports,13,48.31,628.03
+East,Store_16,2021-02-21,Clothing,1,154.46,154.46
+East,Store_13,2021-09-28,Toys,12,262.29,3147.4800000000005
+East,Store_9,2020-09-04,Electronics,2,150.37,300.74
+East,Store_1,2020-08-05,Electronics,8,175.73,1405.84
+East,Store_11,2021-09-12,Electronics,4,426.89,1707.56
+East,Store_4,2021-09-23,Home & Kitchen,14,303.91,4254.740000000001
+East,Store_15,2021-09-10,Sports,3,42.87,128.61
+East,Store_1,2020-09-15,Home & Kitchen,16,111.34,1781.44
+East,Store_17,2020-10-14,Sports,18,100.97,1817.46
+East,Store_12,2021-11-20,Electronics,17,184.68,3139.56
+East,Store_14,2021-07-20,Clothing,6,434.61,2607.66
+East,Store_6,2021-07-29,Clothing,13,215.2,2797.6
+East,Store_11,2021-09-05,Sports,4,347.14,1388.56
+East,Store_17,2020-03-02,Clothing,6,51.32,307.92
+East,Store_19,2020-08-02,Home & Kitchen,3,376.99,1130.97
+East,Store_11,2021-04-13,Clothing,14,248.53,3479.42
+East,Store_16,2021-11-21,Home & Kitchen,2,364.32,728.64
+East,Store_13,2020-08-18,Toys,18,86.49,1556.82
+East,Store_16,2021-08-15,Toys,16,318.61,5097.76
+East,Store_10,2020-12-27,Home & Kitchen,3,325.04,975.12
+East,Store_2,2021-03-30,Clothing,1,317.68,317.68
+East,Store_13,2020-05-25,Sports,12,350.72,4208.64
+East,Store_1,2020-12-16,Clothing,14,66.11,925.54
+East,Store_16,2021-03-01,Toys,3,311.12,933.36
+East,Store_1,2021-12-02,Sports,10,221.03,2210.3
+East,Store_4,2021-07-17,Toys,15,457.1,6856.5
+East,Store_1,2020-01-24,Sports,13,194.34,2526.42
+East,Store_17,2021-10-05,Toys,3,295.54,886.6200000000001
+East,Store_15,2020-12-05,Home & Kitchen,10,171.5,1715.0
+East,Store_3,2020-01-27,Sports,19,140.58,2671.0200000000004
+East,Store_11,2020-02-15,Clothing,4,289.67,1158.68
+East,Store_10,2020-07-05,Electronics,10,304.3,3043.0
+East,Store_20,2021-07-09,Home & Kitchen,19,335.86,6381.34
+East,Store_1,2021-03-08,Toys,5,264.92,1324.6
+East,Store_19,2021-04-24,Sports,15,72.63,1089.4499999999998
+East,Store_15,2021-08-24,Home & Kitchen,18,329.81,5936.58
+East,Store_2,2021-05-02,Toys,1,149.49,149.49
+East,Store_12,2020-11-18,Electronics,8,151.86,1214.88
+East,Store_4,2020-03-12,Electronics,5,91.91,459.55
+East,Store_17,2021-09-11,Toys,3,327.8,983.4
+East,Store_18,2021-04-13,Clothing,8,480.85,3846.8
+East,Store_1,2021-09-29,Toys,17,469.93,7988.81
+East,Store_5,2020-07-12,Sports,19,355.48,6754.120000000001
+East,Store_12,2020-11-14,Sports,2,54.1,108.2
+East,Store_20,2020-12-22,Electronics,6,74.42,446.52
+East,Store_8,2021-02-01,Home & Kitchen,17,460.72,7832.240000000001
+East,Store_19,2021-07-06,Clothing,12,63.43,761.16
+East,Store_6,2020-08-25,Clothing,3,432.36,1297.08
+East,Store_15,2020-11-06,Clothing,17,57.36,975.12
+East,Store_20,2021-12-13,Sports,10,123.33,1233.3
+East,Store_19,2021-03-22,Electronics,19,361.67,6871.7300000000005
+East,Store_2,2020-08-26,Home & Kitchen,13,290.31,3774.03
+East,Store_5,2021-12-30,Toys,9,189.82,1708.38
+East,Store_2,2020-08-25,Clothing,17,334.93,5693.81
+East,Store_7,2020-11-28,Toys,3,13.42,40.26
+East,Store_9,2021-07-22,Clothing,2,275.31,550.62
+East,Store_14,2021-03-18,Toys,6,262.26,1573.56
+East,Store_6,2021-09-06,Home & Kitchen,6,320.12,1920.72
+East,Store_15,2021-12-03,Toys,9,471.16,4240.4400000000005
+East,Store_20,2020-10-07,Home & Kitchen,7,90.95,636.65
+East,Store_7,2021-06-20,Clothing,12,112.88,1354.56
+East,Store_20,2021-04-06,Toys,7,187.13,1309.91
+East,Store_17,2021-12-09,Home & Kitchen,16,259.41,4150.56
+East,Store_7,2021-04-28,Sports,2,232.27,464.54
+East,Store_11,2020-06-29,Clothing,18,68.8,1238.4
+East,Store_12,2020-07-11,Clothing,16,262.7,4203.2
+East,Store_1,2021-08-11,Electronics,6,46.22,277.32
+East,Store_6,2020-09-14,Electronics,15,145.83,2187.4500000000003
+East,Store_4,2021-09-02,Electronics,5,207.37,1036.85
+East,Store_17,2020-07-12,Sports,12,412.65,4951.799999999999
+East,Store_1,2020-09-29,Home & Kitchen,13,107.72,1400.36
+East,Store_1,2020-08-08,Clothing,14,168.6,2360.4
+East,Store_18,2020-05-08,Clothing,6,441.33,2647.98
+East,Store_11,2021-09-09,Toys,2,104.72,209.44
+East,Store_2,2021-01-23,Electronics,8,303.48,2427.84
+East,Store_11,2020-12-12,Clothing,12,157.38,1888.56
+East,Store_2,2020-08-19,Sports,17,499.35,8488.95
+East,Store_8,2020-05-07,Sports,7,474.75,3323.25
+East,Store_15,2020-06-22,Home & Kitchen,13,83.86,1090.18
+East,Store_9,2020-05-06,Toys,10,469.27,4692.7
+East,Store_18,2020-01-27,Home & Kitchen,14,198.28,2775.92
+East,Store_15,2020-02-22,Home & Kitchen,14,148.32,2076.48
+East,Store_1,2020-12-26,Clothing,13,374.98,4874.74
+East,Store_13,2021-06-08,Sports,4,24.16,96.64
+East,Store_16,2021-07-02,Sports,19,230.89,4386.91
+East,Store_12,2020-09-07,Sports,19,17.24,327.55999999999995
+East,Store_5,2021-05-10,Toys,19,490.77,9324.63
+East,Store_3,2020-03-29,Home & Kitchen,4,120.18,480.72
+East,Store_6,2020-05-27,Clothing,8,387.31,3098.48
+East,Store_4,2020-10-05,Electronics,5,218.54,1092.7
+East,Store_16,2020-12-05,Electronics,15,412.74,6191.1
+East,Store_2,2020-04-15,Toys,10,9.05,90.5
+East,Store_19,2021-06-01,Sports,12,433.79,5205.4800000000005
+East,Store_3,2021-12-27,Toys,4,415.56,1662.24
+East,Store_9,2020-06-05,Toys,8,191.18,1529.44
+East,Store_8,2021-01-09,Home & Kitchen,19,276.35,5250.650000000001
+East,Store_18,2020-04-19,Home & Kitchen,13,456.64,5936.32
+East,Store_20,2020-09-29,Toys,11,177.16,1948.76
+East,Store_19,2021-09-13,Toys,2,470.45,940.9
+East,Store_11,2020-01-13,Clothing,11,217.21,2389.31
+East,Store_1,2020-07-05,Clothing,2,89.97,179.94
+East,Store_4,2021-03-30,Electronics,8,158.96,1271.68
+East,Store_1,2020-11-20,Clothing,7,467.0,3269.0
+East,Store_12,2021-07-31,Home & Kitchen,10,425.97,4259.700000000001
+East,Store_13,2021-01-18,Sports,15,475.81,7137.15
+East,Store_7,2020-11-12,Clothing,13,52.18,678.34
+East,Store_20,2020-01-30,Home & Kitchen,8,484.46,3875.68
+East,Store_6,2020-08-12,Home & Kitchen,18,215.03,3870.54
+East,Store_7,2021-06-01,Sports,15,493.79,7406.85
+East,Store_12,2021-08-15,Electronics,18,163.97,2951.46
+East,Store_12,2021-04-26,Clothing,4,51.41,205.64
+East,Store_4,2020-04-30,Home & Kitchen,11,27.34,300.74
+East,Store_15,2021-05-27,Clothing,10,11.78,117.8
+East,Store_14,2021-04-07,Home & Kitchen,10,411.05,4110.5
+East,Store_6,2021-10-07,Toys,18,148.95,2681.1
+East,Store_17,2021-11-25,Home & Kitchen,13,393.45,5114.849999999999
+East,Store_2,2021-07-23,Toys,18,75.41,1357.38
+East,Store_8,2021-08-22,Clothing,4,426.53,1706.12
+East,Store_17,2020-05-24,Electronics,4,185.17,740.68
+East,Store_10,2020-04-16,Home & Kitchen,16,426.22,6819.52
+East,Store_10,2021-08-09,Electronics,3,55.15,165.45
+East,Store_5,2021-05-08,Home & Kitchen,3,101.2,303.6
+East,Store_18,2021-09-10,Home & Kitchen,5,149.54,747.6999999999999
+East,Store_6,2020-02-19,Home & Kitchen,18,390.86,7035.4800000000005
+East,Store_1,2021-10-11,Electronics,13,72.07,936.91
+East,Store_3,2021-03-03,Electronics,13,43.96,571.48
+East,Store_18,2020-03-31,Clothing,18,399.4,7189.2
+East,Store_18,2020-04-04,Toys,13,231.64,3011.32
+East,Store_6,2021-05-07,Sports,9,362.61,3263.49
+East,Store_2,2020-10-14,Clothing,19,242.13,4600.47
+East,Store_13,2021-03-18,Electronics,8,100.17,801.36
+East,Store_5,2020-04-07,Sports,6,198.23,1189.38
+East,Store_13,2020-07-16,Electronics,14,308.27,4315.78
+East,Store_15,2020-09-29,Toys,16,231.84,3709.44
+East,Store_9,2020-07-01,Home & Kitchen,17,257.36,4375.12
+East,Store_12,2021-12-09,Sports,4,150.75,603.0
+East,Store_12,2021-03-01,Clothing,5,57.83,289.15
+East,Store_14,2020-11-12,Clothing,17,185.16,3147.72
+East,Store_2,2020-04-25,Sports,10,274.11,2741.1000000000004
+East,Store_19,2020-03-29,Clothing,16,70.53,1128.48
+East,Store_3,2020-06-27,Sports,2,77.88,155.76
+East,Store_7,2020-03-07,Home & Kitchen,2,338.28,676.56
+East,Store_16,2020-02-02,Sports,13,381.66,4961.58
+East,Store_15,2021-03-23,Clothing,8,70.63,565.04
+East,Store_13,2021-05-13,Home & Kitchen,13,50.14,651.82
+East,Store_5,2021-11-07,Home & Kitchen,12,447.62,5371.4400000000005
+East,Store_10,2021-11-28,Sports,18,225.16,4052.88
+East,Store_20,2021-12-28,Sports,18,275.9,4966.2
+East,Store_7,2020-08-14,Electronics,6,33.91,203.46
+East,Store_11,2021-09-10,Clothing,4,300.85,1203.4
+East,Store_11,2021-08-06,Clothing,10,42.99,429.9
+East,Store_7,2021-08-11,Sports,9,177.45,1597.05
+East,Store_4,2021-06-14,Clothing,12,323.44,3881.28
+East,Store_14,2020-04-21,Electronics,15,412.31,6184.65
+East,Store_13,2020-01-19,Home & Kitchen,13,91.46,1188.98
+East,Store_4,2020-12-24,Electronics,5,322.33,1611.65
+East,Store_4,2020-08-07,Electronics,4,256.39,1025.56
+East,Store_2,2021-02-06,Clothing,14,313.58,4390.12
+East,Store_12,2020-05-24,Home & Kitchen,8,308.29,2466.32
+East,Store_1,2020-02-20,Sports,2,460.5,921.0
+East,Store_17,2021-11-27,Electronics,8,67.0,536.0
+East,Store_13,2020-04-11,Home & Kitchen,1,435.96,435.96
+East,Store_18,2020-03-06,Toys,5,348.85,1744.25
+East,Store_3,2021-01-08,Home & Kitchen,13,496.47,6454.110000000001
+East,Store_15,2020-01-01,Electronics,13,54.07,702.91
+East,Store_17,2020-02-13,Toys,11,97.29,1070.19
+East,Store_9,2021-06-08,Electronics,13,408.0,5304.0
+East,Store_5,2021-07-21,Toys,16,42.33,677.28
+East,Store_20,2021-03-07,Home & Kitchen,13,277.19,3603.47
+East,Store_2,2021-02-04,Electronics,18,133.43,2401.74
+East,Store_3,2021-05-02,Toys,4,335.96,1343.84
+East,Store_11,2021-11-11,Home & Kitchen,15,159.85,2397.75
+East,Store_17,2020-08-16,Toys,17,97.64,1659.88
+East,Store_16,2021-09-22,Home & Kitchen,13,465.08,6046.04
+East,Store_10,2021-09-10,Clothing,2,9.53,19.06
+East,Store_19,2021-03-11,Sports,12,397.83,4773.96
+East,Store_13,2021-10-18,Electronics,2,451.33,902.66
+East,Store_11,2020-06-15,Toys,19,283.29,5382.51
+East,Store_3,2020-11-04,Electronics,2,168.36,336.72
+East,Store_2,2021-07-25,Electronics,17,372.73,6336.41
+East,Store_20,2021-09-02,Clothing,11,341.76,3759.36
+East,Store_17,2021-07-27,Home & Kitchen,4,497.41,1989.64
+East,Store_4,2021-01-07,Toys,18,131.64,2369.5199999999995
+East,Store_6,2020-10-03,Electronics,1,292.41,292.41
+East,Store_5,2020-12-01,Home & Kitchen,15,116.69,1750.35
+East,Store_18,2021-10-02,Toys,19,340.66,6472.540000000001
+East,Store_4,2020-08-22,Electronics,10,175.71,1757.1
+East,Store_20,2021-12-09,Toys,12,453.92,5447.04
+East,Store_17,2020-05-06,Toys,14,194.64,2724.96
+East,Store_6,2020-02-27,Toys,16,114.71,1835.36
+East,Store_1,2021-09-15,Toys,15,378.84,5682.599999999999
+East,Store_12,2020-07-26,Sports,5,283.39,1416.9499999999998
+East,Store_7,2021-11-02,Toys,18,122.94,2212.92
+East,Store_18,2020-03-30,Toys,8,218.33,1746.64
+East,Store_12,2020-12-30,Sports,2,129.89,259.78
+East,Store_8,2020-03-19,Home & Kitchen,11,217.67,2394.37
+East,Store_16,2020-06-11,Toys,9,467.67,4209.03
+East,Store_18,2021-06-24,Electronics,5,417.8,2089.0
+East,Store_9,2021-07-29,Sports,12,158.6,1903.2
+East,Store_3,2021-09-28,Home & Kitchen,9,355.45,3199.05
+East,Store_12,2020-12-18,Clothing,5,375.83,1879.15
+East,Store_5,2020-08-13,Clothing,9,54.16,487.44
+East,Store_16,2021-07-12,Sports,14,168.71,2361.94
+East,Store_15,2021-07-01,Sports,2,91.8,183.6
+East,Store_13,2020-06-06,Electronics,11,292.66,3219.26
+East,Store_15,2020-01-28,Home & Kitchen,9,329.27,2963.43
+East,Store_17,2021-05-28,Clothing,6,421.2,2527.2
+East,Store_1,2021-02-10,Sports,8,68.18,545.44
+East,Store_10,2021-05-03,Home & Kitchen,12,153.68,1844.16
+East,Store_10,2020-02-03,Home & Kitchen,6,463.43,2780.58
+East,Store_19,2020-10-21,Electronics,10,173.16,1731.6
+East,Store_2,2020-11-15,Electronics,5,156.36,781.8000000000001
+East,Store_6,2021-03-04,Clothing,13,297.68,3869.84
+East,Store_17,2020-12-24,Sports,14,390.71,5469.94
+East,Store_10,2020-07-25,Clothing,15,144.24,2163.6000000000004
+East,Store_9,2020-06-25,Sports,3,261.39,784.17
+East,Store_3,2020-12-22,Sports,14,234.97,3289.58
+East,Store_17,2021-10-22,Sports,16,466.83,7469.28
+East,Store_8,2020-04-28,Sports,5,191.68,958.4
+East,Store_13,2021-07-26,Electronics,12,450.18,5402.16
+East,Store_4,2021-04-05,Clothing,7,174.56,1221.92
+East,Store_8,2020-07-30,Toys,16,258.21,4131.36
+East,Store_3,2020-01-28,Home & Kitchen,17,189.27,3217.59
+East,Store_12,2020-04-22,Sports,1,418.17,418.17
+East,Store_5,2020-10-03,Electronics,10,196.44,1964.4
+East,Store_14,2020-09-15,Sports,10,207.17,2071.7
+East,Store_1,2020-05-19,Sports,17,252.55,4293.35
+East,Store_12,2021-01-10,Clothing,15,173.05,2595.75
+East,Store_12,2020-07-16,Electronics,11,38.11,419.21
+East,Store_20,2020-10-04,Clothing,2,94.54,189.08
+East,Store_11,2021-09-30,Electronics,2,86.28,172.56
+East,Store_16,2021-02-17,Toys,15,405.89,6088.349999999999
+East,Store_13,2020-06-08,Clothing,12,153.58,1842.96
+East,Store_18,2021-03-12,Toys,6,105.87,635.22
+East,Store_2,2021-05-08,Electronics,19,327.85,6229.150000000001
+East,Store_13,2020-06-15,Toys,13,327.71,4260.23
+East,Store_16,2020-06-02,Electronics,1,458.34,458.34
+East,Store_18,2020-11-30,Clothing,4,184.22,736.88
+East,Store_9,2020-08-18,Clothing,19,435.93,8282.67
+East,Store_16,2020-02-21,Sports,7,485.63,3399.41
+East,Store_7,2021-04-13,Sports,9,65.11,585.99
+East,Store_1,2021-05-26,Sports,6,363.74,2182.44
+East,Store_6,2020-09-14,Sports,4,232.67,930.68
+East,Store_4,2021-11-02,Electronics,14,164.19,2298.66
+East,Store_8,2021-07-21,Sports,13,45.78,595.14
+East,Store_15,2020-01-18,Sports,10,430.24,4302.4
+East,Store_5,2020-09-21,Clothing,11,292.82,3221.02
+East,Store_10,2020-09-29,Sports,5,424.25,2121.25
+East,Store_8,2021-11-22,Sports,1,330.27,330.27
+East,Store_12,2021-10-01,Home & Kitchen,6,418.97,2513.82
+East,Store_14,2020-02-02,Sports,11,266.66,2933.26
+East,Store_6,2020-08-12,Home & Kitchen,19,11.21,212.99
+East,Store_6,2021-03-20,Toys,16,110.97,1775.52
+East,Store_9,2021-04-09,Electronics,4,47.39,189.56
+East,Store_10,2020-08-31,Electronics,8,432.2,3457.6
+East,Store_6,2021-11-21,Home & Kitchen,3,120.98,362.94
+East,Store_6,2021-12-24,Sports,8,402.65,3221.2
+East,Store_15,2021-08-12,Toys,11,154.42,1698.62
+East,Store_16,2020-12-05,Home & Kitchen,17,76.1,1293.6999999999998
+East,Store_17,2021-06-29,Toys,4,225.48,901.92
+East,Store_14,2021-07-24,Toys,17,106.63,1812.71
+East,Store_11,2020-08-25,Clothing,19,257.04,4883.76
+East,Store_5,2021-09-07,Sports,14,29.76,416.64
+East,Store_20,2020-02-15,Sports,7,419.74,2938.1800000000003
+East,Store_10,2021-07-29,Toys,18,256.8,4622.400000000001
+East,Store_14,2021-07-26,Clothing,10,337.89,3378.9
+East,Store_7,2021-08-22,Toys,6,307.42,1844.52
+East,Store_1,2020-08-05,Sports,3,376.99,1130.97
+East,Store_9,2020-03-30,Toys,18,238.41,4291.38
+East,Store_4,2020-10-25,Clothing,12,140.46,1685.52
+East,Store_6,2021-07-23,Electronics,11,167.92,1847.12
+East,Store_18,2021-09-15,Electronics,9,112.07,1008.63
+East,Store_2,2020-05-05,Sports,11,61.21,673.3100000000001
+East,Store_8,2021-03-03,Electronics,18,466.56,8398.08
+East,Store_10,2021-08-21,Clothing,9,278.81,2509.29
+East,Store_3,2020-05-02,Home & Kitchen,9,419.49,3775.41
+East,Store_4,2021-11-24,Sports,3,103.38,310.14
+East,Store_20,2020-12-24,Clothing,2,286.6,573.2
+East,Store_3,2021-03-31,Electronics,6,376.14,2256.84
+East,Store_8,2021-10-20,Toys,3,373.17,1119.51
+East,Store_19,2020-04-03,Clothing,13,454.0,5902.0
+East,Store_20,2021-01-21,Toys,14,23.07,322.98
+East,Store_17,2020-08-02,Toys,2,111.68,223.36
+East,Store_13,2021-03-10,Toys,7,434.39,3040.73
+East,Store_11,2020-06-28,Clothing,13,405.64,5273.32
+East,Store_12,2021-10-26,Toys,5,255.24,1276.2
+East,Store_13,2021-01-14,Toys,11,112.41,1236.51
+East,Store_5,2021-07-01,Sports,11,211.54,2326.94
+East,Store_6,2021-04-19,Sports,15,305.32,4579.8
+East,Store_15,2020-04-27,Sports,1,265.95,265.95
+East,Store_10,2021-04-08,Toys,14,274.3,3840.2
+East,Store_1,2020-09-16,Toys,8,409.56,3276.48
+East,Store_10,2021-09-04,Home & Kitchen,6,84.52,507.12
+East,Store_2,2021-05-19,Home & Kitchen,3,475.43,1426.29
+East,Store_11,2020-04-10,Sports,18,56.06,1009.08
+East,Store_16,2021-06-01,Sports,9,346.83,3121.47
+East,Store_13,2020-08-26,Clothing,9,454.32,4088.88
+East,Store_11,2021-10-17,Electronics,19,67.33,1279.27
+East,Store_19,2021-11-08,Home & Kitchen,16,127.69,2043.04
+East,Store_1,2021-10-05,Sports,12,273.02,3276.24
+East,Store_2,2021-08-24,Electronics,15,463.64,6954.599999999999
+East,Store_12,2020-11-15,Home & Kitchen,11,388.45,4272.95
+East,Store_1,2021-05-25,Sports,6,84.17,505.02
+East,Store_5,2020-02-01,Toys,11,304.74,3352.1400000000003
+East,Store_16,2020-09-22,Electronics,14,346.16,4846.240000000001
+East,Store_10,2021-09-25,Sports,11,335.13,3686.43
+East,Store_8,2020-10-19,Sports,6,243.51,1461.06
+East,Store_17,2020-03-21,Sports,10,477.68,4776.8
+East,Store_20,2021-07-27,Clothing,11,34.08,374.88
+East,Store_12,2021-12-05,Electronics,1,420.48,420.48
+East,Store_18,2020-07-13,Clothing,16,287.26,4596.16
+East,Store_4,2021-08-10,Electronics,1,301.31,301.31
+East,Store_6,2021-08-04,Home & Kitchen,11,294.36,3237.96
+East,Store_10,2021-11-07,Home & Kitchen,17,258.7,4397.9
+East,Store_14,2021-10-21,Clothing,14,31.75,444.5
+East,Store_2,2021-06-26,Electronics,4,233.49,933.96
+East,Store_2,2020-03-15,Sports,16,96.08,1537.28
+East,Store_17,2020-05-12,Home & Kitchen,7,392.28,2745.96
+East,Store_18,2021-09-07,Toys,7,431.25,3018.75
+East,Store_17,2020-05-18,Home & Kitchen,4,382.87,1531.48
+East,Store_4,2021-09-30,Sports,10,395.53,3955.3
+East,Store_9,2020-10-20,Sports,7,480.48,3363.36
+East,Store_7,2021-02-19,Toys,2,94.28,188.56
+East,Store_11,2021-09-25,Electronics,4,112.91,451.64
+East,Store_10,2021-01-22,Toys,5,292.37,1461.85
+East,Store_20,2021-05-04,Clothing,9,394.02,3546.18
+East,Store_18,2021-02-23,Clothing,6,400.03,2400.18
+East,Store_12,2020-11-24,Home & Kitchen,15,56.13,841.95
+East,Store_7,2020-04-27,Sports,1,127.25,127.25
+East,Store_16,2021-09-21,Toys,1,399.63,399.63
+East,Store_8,2020-04-03,Sports,7,263.98,1847.86
+East,Store_14,2021-01-02,Electronics,14,188.68,2641.52
+East,Store_4,2020-10-23,Electronics,1,420.71,420.71
+East,Store_8,2020-06-13,Toys,1,79.71,79.71
+East,Store_4,2020-02-17,Electronics,2,178.24,356.48
+East,Store_13,2021-12-23,Electronics,7,430.27,3011.89
+East,Store_4,2020-12-09,Sports,19,33.61,638.59
+East,Store_6,2020-07-05,Home & Kitchen,15,477.39,7160.849999999999
+East,Store_4,2021-05-08,Clothing,2,110.08,220.16
+East,Store_5,2021-04-22,Toys,1,180.36,180.36
+East,Store_17,2020-05-11,Clothing,7,484.06,3388.42
+East,Store_19,2021-07-16,Electronics,11,126.83,1395.13
+East,Store_15,2020-03-08,Electronics,1,10.81,10.81
+East,Store_8,2021-07-16,Sports,7,229.32,1605.24
+East,Store_15,2020-03-03,Sports,15,333.15,4997.25
+East,Store_14,2021-11-10,Electronics,12,33.75,405.0
+East,Store_4,2021-01-02,Toys,1,273.07,273.07
+East,Store_16,2020-10-12,Toys,5,191.55,957.75
+East,Store_7,2020-11-25,Electronics,10,110.94,1109.4
+East,Store_12,2021-06-09,Toys,18,330.87,5955.66
+East,Store_10,2021-10-12,Home & Kitchen,15,466.7,7000.5
+East,Store_16,2020-03-29,Sports,16,154.38,2470.08
+East,Store_4,2020-05-08,Toys,1,228.88,228.88
+East,Store_8,2020-09-03,Home & Kitchen,8,236.78,1894.24
+East,Store_18,2021-05-08,Sports,17,210.87,3584.79
+East,Store_19,2020-02-12,Toys,14,377.0,5278.0
+East,Store_15,2021-03-19,Clothing,9,149.42,1344.78
+East,Store_13,2020-02-13,Clothing,7,182.28,1275.96
+East,Store_4,2020-08-14,Toys,14,7.55,105.7
+East,Store_4,2020-09-12,Home & Kitchen,18,190.73,3433.14
+East,Store_13,2020-10-29,Sports,12,153.14,1837.68
+East,Store_15,2020-01-17,Home & Kitchen,14,8.99,125.86
+East,Store_19,2020-10-09,Home & Kitchen,19,448.97,8530.43
+East,Store_13,2020-06-21,Toys,11,8.88,97.68
+East,Store_11,2020-10-14,Home & Kitchen,1,486.85,486.85
+East,Store_17,2020-02-25,Toys,18,370.03,6660.539999999999
+East,Store_13,2021-11-23,Toys,14,234.96,3289.44
+East,Store_7,2021-04-29,Sports,12,378.23,4538.76
+East,Store_4,2020-02-14,Home & Kitchen,5,135.0,675.0
+East,Store_12,2020-01-01,Sports,4,411.66,1646.64
+East,Store_4,2020-07-02,Sports,6,252.53,1515.18
+East,Store_7,2021-06-13,Sports,14,259.15,3628.1
+East,Store_19,2021-11-16,Sports,2,10.81,21.62
+East,Store_10,2021-11-26,Electronics,1,348.39,348.39
+East,Store_16,2020-06-03,Home & Kitchen,4,149.08,596.32
+East,Store_5,2020-12-07,Home & Kitchen,1,327.54,327.54
+East,Store_16,2020-07-14,Toys,14,240.73,3370.22
+East,Store_14,2021-07-12,Electronics,18,126.51,2277.1800000000003
+East,Store_18,2021-01-01,Clothing,19,314.6,5977.400000000001
+East,Store_2,2021-09-30,Toys,13,391.55,5090.150000000001
+East,Store_3,2020-01-09,Clothing,7,410.7,2874.9
+East,Store_10,2021-02-17,Toys,4,125.96,503.84
+East,Store_6,2021-11-13,Clothing,17,304.28,5172.759999999999
+East,Store_18,2020-05-30,Toys,7,23.53,164.71
+East,Store_14,2020-10-18,Toys,4,159.73,638.92
+East,Store_3,2021-05-14,Toys,10,109.68,1096.8000000000002
+East,Store_8,2020-09-25,Toys,14,412.58,5776.12
+East,Store_11,2020-07-11,Toys,16,73.52,1176.32
+East,Store_15,2020-09-03,Clothing,14,191.32,2678.48
+East,Store_8,2020-10-10,Sports,6,109.7,658.2
+East,Store_9,2021-01-17,Toys,2,11.69,23.38
+East,Store_5,2020-12-12,Clothing,3,19.42,58.260000000000005
+East,Store_11,2020-12-10,Clothing,8,493.2,3945.6
+East,Store_10,2021-04-25,Electronics,12,423.91,5086.92
+East,Store_11,2021-02-06,Home & Kitchen,12,82.76,993.12
+East,Store_6,2020-05-27,Toys,6,95.3,571.8
+East,Store_2,2020-02-24,Home & Kitchen,3,5.28,15.84
+East,Store_16,2021-01-29,Clothing,10,419.04,4190.400000000001
+East,Store_10,2021-09-23,Sports,15,190.14,2852.1
+East,Store_7,2020-02-04,Toys,9,238.88,2149.92
+East,Store_5,2021-01-15,Clothing,1,466.03,466.03
+East,Store_11,2021-11-20,Home & Kitchen,13,411.03,5343.389999999999
+East,Store_17,2021-06-08,Sports,7,170.53,1193.71
+East,Store_1,2021-05-04,Toys,9,311.93,2807.37
+East,Store_3,2021-04-25,Clothing,19,43.91,834.29
+East,Store_8,2020-10-04,Sports,5,262.67,1313.35
+East,Store_13,2021-09-16,Home & Kitchen,1,358.0,358.0
+East,Store_19,2020-09-10,Clothing,11,94.67,1041.37
+East,Store_8,2021-12-28,Clothing,9,496.31,4466.79
+East,Store_13,2021-01-29,Toys,12,352.38,4228.56
+East,Store_12,2021-06-02,Electronics,15,117.99,1769.85
+East,Store_3,2021-04-11,Home & Kitchen,5,86.64,433.2
+East,Store_3,2020-05-19,Electronics,6,393.11,2358.66
+East,Store_8,2021-09-24,Toys,16,254.53,4072.48
+East,Store_20,2021-03-22,Clothing,13,283.32,3683.16
+East,Store_11,2021-07-18,Clothing,19,365.31,6940.89
+East,Store_15,2020-11-13,Home & Kitchen,6,374.77,2248.62
+East,Store_19,2020-10-14,Sports,6,139.37,836.22
+East,Store_11,2020-09-25,Electronics,19,391.67,7441.73
+East,Store_17,2021-03-04,Toys,19,343.23,6521.370000000001
+East,Store_13,2021-07-09,Electronics,14,328.05,4592.7
+East,Store_18,2021-02-17,Sports,8,166.04,1328.32
+East,Store_9,2021-04-03,Electronics,5,144.58,722.9000000000001
+East,Store_12,2020-05-14,Toys,5,491.13,2455.65
+East,Store_6,2021-10-22,Electronics,13,412.36,5360.68
+East,Store_4,2021-06-28,Home & Kitchen,5,19.52,97.6
+East,Store_15,2020-05-25,Clothing,9,145.29,1307.61
+East,Store_5,2020-12-22,Electronics,12,287.75,3453.0
+East,Store_19,2020-07-31,Clothing,8,209.19,1673.52
+East,Store_5,2021-07-18,Electronics,13,129.92,1688.9599999999998
+East,Store_16,2021-12-19,Clothing,16,77.01,1232.16
+East,Store_12,2021-09-24,Clothing,11,255.96,2815.56
+East,Store_15,2021-01-14,Sports,17,16.35,277.95000000000005
+East,Store_19,2021-04-10,Electronics,11,385.34,4238.74
+East,Store_10,2021-07-24,Toys,4,252.97,1011.88
+East,Store_8,2020-05-12,Home & Kitchen,5,208.55,1042.75
+East,Store_14,2020-09-21,Electronics,11,54.06,594.6600000000001
+East,Store_6,2020-05-02,Clothing,1,218.61,218.61
+East,Store_11,2020-04-25,Clothing,14,168.8,2363.2000000000003
+East,Store_11,2020-03-30,Clothing,13,207.08,2692.04
+East,Store_18,2020-10-31,Sports,5,398.79,1993.95
+East,Store_7,2020-02-17,Home & Kitchen,7,449.41,3145.8700000000003
+East,Store_17,2021-08-07,Electronics,13,21.98,285.74
+East,Store_4,2021-12-10,Clothing,12,348.06,4176.72
+East,Store_20,2021-08-23,Sports,2,49.1,98.2
+East,Store_11,2020-10-27,Sports,8,105.27,842.16
+East,Store_16,2020-01-20,Sports,2,383.81,767.62
+East,Store_1,2020-04-23,Electronics,2,250.82,501.64
+East,Store_3,2021-11-29,Home & Kitchen,13,288.26,3747.38
+East,Store_3,2021-03-14,Clothing,5,84.1,420.5
+East,Store_9,2021-06-08,Toys,12,267.28,3207.36
+East,Store_11,2020-12-11,Toys,10,23.76,237.6
+East,Store_18,2020-01-30,Home & Kitchen,13,439.05,5707.650000000001
+East,Store_4,2021-12-15,Sports,5,425.44,2127.2
+East,Store_17,2020-10-12,Electronics,4,80.58,322.32
+East,Store_12,2021-10-06,Electronics,9,323.7,2913.3
+East,Store_14,2020-12-19,Toys,4,275.36,1101.44
+East,Store_18,2021-08-25,Home & Kitchen,8,452.38,3619.04
+East,Store_5,2021-01-03,Home & Kitchen,18,467.81,8420.58
+East,Store_10,2020-03-27,Toys,17,326.81,5555.77
+East,Store_15,2021-07-14,Home & Kitchen,19,301.67,5731.7300000000005
+East,Store_8,2021-10-18,Home & Kitchen,1,471.39,471.39
+East,Store_8,2020-02-22,Electronics,1,217.84,217.84
+East,Store_13,2021-04-15,Sports,11,309.13,3400.43
+East,Store_8,2021-07-20,Electronics,13,131.34,1707.42
+East,Store_6,2020-07-29,Electronics,2,298.13,596.26
+East,Store_13,2020-06-16,Electronics,1,284.31,284.31
+East,Store_6,2020-02-22,Toys,19,430.61,8181.59
+East,Store_20,2021-08-13,Toys,12,428.22,5138.64
+East,Store_17,2020-10-29,Electronics,9,58.6,527.4
+East,Store_19,2020-05-29,Clothing,17,301.21,5120.57
+East,Store_10,2020-08-15,Toys,15,488.07,7321.05
+East,Store_14,2021-09-24,Sports,2,380.9,761.8
+East,Store_19,2021-12-10,Electronics,3,292.12,876.36
+East,Store_12,2020-06-19,Clothing,6,222.33,1333.98
+East,Store_15,2020-02-21,Clothing,12,457.61,5491.32
+East,Store_14,2020-10-30,Home & Kitchen,2,295.49,590.98
+East,Store_15,2021-12-30,Electronics,12,464.92,5579.04
+East,Store_17,2020-08-31,Clothing,11,14.03,154.32999999999998
+East,Store_6,2021-05-16,Sports,11,137.82,1516.02
+East,Store_4,2021-07-20,Electronics,11,453.32,4986.52
+East,Store_6,2021-09-16,Electronics,4,295.61,1182.44
+East,Store_3,2021-07-25,Sports,4,246.52,986.08
+East,Store_17,2021-09-07,Electronics,6,76.15,456.9
+East,Store_1,2021-02-19,Sports,11,192.06,2112.66
+East,Store_8,2021-10-15,Toys,5,412.46,2062.3
+East,Store_4,2020-08-27,Home & Kitchen,17,202.38,3440.46
+East,Store_20,2021-05-06,Home & Kitchen,17,157.99,2685.83
+East,Store_13,2020-10-03,Toys,12,140.17,1682.04
+East,Store_2,2020-03-17,Sports,11,414.9,4563.9
+East,Store_5,2020-06-10,Toys,9,480.44,4323.96
+East,Store_12,2020-04-15,Home & Kitchen,10,423.8,4238.0
+East,Store_18,2020-09-20,Toys,6,401.44,2408.64
+East,Store_10,2021-12-08,Sports,6,17.49,104.94
+East,Store_19,2021-09-16,Clothing,16,96.18,1538.88
+East,Store_20,2021-01-19,Sports,5,244.0,1220.0
+East,Store_3,2020-02-07,Home & Kitchen,15,339.75,5096.25
+East,Store_19,2020-05-22,Clothing,6,56.01,336.06
+East,Store_2,2020-05-22,Home & Kitchen,3,218.84,656.52
+East,Store_8,2020-08-22,Sports,12,465.66,5587.92
+East,Store_7,2021-08-31,Clothing,11,298.89,3287.79
+East,Store_15,2021-09-19,Toys,1,413.9,413.9
+East,Store_4,2020-08-04,Home & Kitchen,9,65.64,590.76
+East,Store_3,2021-09-30,Clothing,16,427.79,6844.64
+East,Store_5,2021-07-30,Home & Kitchen,12,69.12,829.44
+East,Store_14,2021-04-17,Toys,9,114.2,1027.8
+East,Store_10,2021-07-12,Home & Kitchen,15,333.01,4995.15
+East,Store_5,2020-06-04,Sports,7,289.23,2024.61
+East,Store_17,2020-10-25,Home & Kitchen,11,117.98,1297.78
+East,Store_9,2021-04-23,Home & Kitchen,2,381.0,762.0
+East,Store_10,2021-12-06,Home & Kitchen,5,78.51,392.55
+East,Store_11,2021-03-29,Home & Kitchen,14,379.16,5308.240000000001
+East,Store_7,2021-12-02,Electronics,13,51.97,675.61
+East,Store_1,2021-06-28,Clothing,1,464.61,464.61
+East,Store_6,2021-12-02,Home & Kitchen,14,216.24,3027.36
+East,Store_6,2021-09-01,Electronics,8,205.38,1643.04
+East,Store_20,2021-02-09,Clothing,15,257.91,3868.650000000001
+East,Store_5,2020-02-06,Clothing,1,405.9,405.9
+East,Store_19,2021-11-04,Home & Kitchen,12,79.38,952.56
+East,Store_2,2021-11-14,Toys,15,108.65,1629.75
+East,Store_16,2020-12-12,Home & Kitchen,19,208.75,3966.25
+East,Store_20,2021-01-12,Home & Kitchen,3,137.41,412.23
+East,Store_7,2020-09-26,Clothing,12,18.34,220.08
+East,Store_16,2021-03-07,Home & Kitchen,2,320.72,641.44
+East,Store_17,2021-03-27,Sports,2,164.0,328.0
+East,Store_7,2020-12-06,Toys,5,202.7,1013.5
+East,Store_17,2020-01-18,Electronics,4,78.85,315.4
+East,Store_4,2020-09-18,Clothing,2,195.58,391.16
+East,Store_17,2020-06-19,Home & Kitchen,4,217.05,868.2
+East,Store_3,2020-04-01,Sports,7,374.83,2623.81
+East,Store_4,2021-08-23,Electronics,15,360.65,5409.75
+East,Store_7,2021-07-27,Home & Kitchen,2,350.61,701.22
+East,Store_18,2021-11-01,Clothing,12,144.26,1731.12
+East,Store_4,2020-05-24,Clothing,1,61.47,61.47
+East,Store_8,2021-08-31,Home & Kitchen,9,184.87,1663.83
+East,Store_17,2021-09-13,Electronics,6,327.15,1962.9
+East,Store_2,2020-04-30,Toys,14,377.36,5283.04
+East,Store_8,2021-02-21,Toys,17,486.46,8269.82
+East,Store_20,2021-04-19,Clothing,10,367.67,3676.7
+East,Store_20,2021-07-06,Sports,8,401.72,3213.76
+East,Store_15,2020-03-03,Electronics,4,197.16,788.64
+East,Store_3,2021-02-11,Home & Kitchen,16,27.08,433.28
+East,Store_12,2021-04-07,Home & Kitchen,13,91.34,1187.42
+East,Store_14,2020-04-19,Clothing,1,209.34,209.34
+East,Store_5,2020-10-29,Toys,5,359.82,1799.1
+East,Store_15,2021-03-15,Clothing,2,433.85,867.7
+East,Store_1,2020-10-05,Home & Kitchen,6,348.01,2088.06
+East,Store_4,2021-10-28,Electronics,12,30.38,364.56
+East,Store_5,2020-08-27,Clothing,9,396.97,3572.7300000000005
+East,Store_11,2020-01-14,Sports,19,12.86,244.34
+East,Store_12,2021-09-06,Toys,5,208.9,1044.5
+East,Store_20,2020-02-08,Clothing,5,194.57,972.85
+East,Store_17,2021-04-15,Home & Kitchen,19,305.25,5799.75
+East,Store_14,2021-09-19,Clothing,2,152.62,305.24
+East,Store_20,2020-10-25,Toys,1,317.6,317.6
+East,Store_2,2020-02-12,Toys,10,335.47,3354.7000000000003
+East,Store_12,2020-11-20,Home & Kitchen,1,26.79,26.79
+East,Store_2,2021-11-21,Home & Kitchen,11,12.03,132.32999999999998
+East,Store_17,2021-01-05,Electronics,10,150.0,1500.0
+East,Store_16,2021-03-11,Electronics,6,351.8,2110.8
+East,Store_19,2020-04-22,Sports,12,302.99,3635.88
+East,Store_18,2021-10-17,Clothing,14,50.88,712.32
+East,Store_13,2021-08-14,Home & Kitchen,19,230.43,4378.17
+East,Store_17,2021-04-26,Toys,7,329.05,2303.35
+East,Store_16,2020-08-01,Electronics,3,489.95,1469.85
+East,Store_20,2021-07-29,Electronics,14,412.49,5774.860000000001
+East,Store_14,2021-11-15,Toys,10,285.32,2853.2
+East,Store_3,2021-08-18,Clothing,12,200.34,2404.08
+East,Store_17,2021-11-20,Home & Kitchen,18,251.0,4518.0
+East,Store_14,2020-05-29,Clothing,18,147.05,2646.9
+East,Store_5,2021-01-31,Toys,11,87.82,966.02
+East,Store_15,2021-03-08,Electronics,14,346.1,4845.400000000001
+East,Store_10,2020-12-25,Electronics,7,202.13,1414.91
+East,Store_16,2020-11-05,Toys,7,315.7,2209.9
+East,Store_1,2020-03-07,Toys,16,462.44,7399.04
+East,Store_11,2020-10-16,Toys,4,473.23,1892.92
+East,Store_8,2020-08-31,Sports,16,273.4,4374.4
+East,Store_12,2021-01-07,Home & Kitchen,10,35.03,350.3
+East,Store_19,2021-07-30,Sports,2,349.09,698.18
+East,Store_4,2021-12-01,Toys,15,342.72,5140.8
+East,Store_8,2020-06-29,Electronics,16,488.52,7816.32
+East,Store_2,2021-12-26,Toys,12,48.03,576.36
+East,Store_19,2020-05-09,Home & Kitchen,13,279.39,3632.07
+East,Store_12,2020-10-05,Clothing,18,475.28,8555.039999999999
+East,Store_16,2021-12-16,Electronics,18,431.14,7760.519999999999
+East,Store_15,2020-04-29,Home & Kitchen,6,477.03,2862.18
+East,Store_11,2021-06-12,Clothing,18,318.84,5739.12
+East,Store_17,2021-08-03,Clothing,13,67.87,882.3100000000001
+East,Store_13,2020-09-04,Home & Kitchen,12,405.59,4867.08
+East,Store_16,2020-11-25,Home & Kitchen,6,145.29,871.74
+East,Store_10,2021-05-17,Clothing,1,442.45,442.45
+East,Store_14,2020-04-22,Home & Kitchen,14,285.66,3999.24
+East,Store_12,2020-10-10,Toys,16,224.64,3594.24
+East,Store_19,2020-04-25,Toys,1,124.67,124.67
+East,Store_10,2021-03-09,Electronics,15,37.71,565.65
+East,Store_12,2020-12-02,Sports,4,215.8,863.2
+East,Store_9,2020-10-22,Electronics,12,483.68,5804.16
+East,Store_12,2020-01-02,Home & Kitchen,6,100.39,602.34
+East,Store_18,2020-03-26,Sports,14,12.87,180.18
+East,Store_2,2020-11-28,Home & Kitchen,8,420.06,3360.48
+East,Store_17,2020-10-27,Electronics,12,262.86,3154.32
+East,Store_17,2020-03-20,Clothing,14,361.74,5064.360000000001
+East,Store_10,2020-05-30,Clothing,14,465.93,6523.02
+East,Store_7,2021-04-30,Home & Kitchen,15,231.73,3475.95
+East,Store_1,2020-01-25,Sports,8,148.63,1189.04
+East,Store_14,2021-09-20,Sports,2,349.92,699.84
+East,Store_7,2020-03-23,Sports,17,467.25,7943.25
+East,Store_13,2021-03-02,Home & Kitchen,6,366.22,2197.32
+East,Store_16,2021-01-16,Sports,2,382.08,764.16
+East,Store_3,2021-09-16,Toys,15,294.35,4415.25
+East,Store_5,2020-11-16,Toys,4,43.13,172.52
+East,Store_13,2020-02-17,Home & Kitchen,17,310.47,5277.990000000001
+East,Store_1,2020-06-01,Toys,2,392.1,784.2
+East,Store_5,2021-11-07,Clothing,10,77.86,778.6
+East,Store_19,2020-07-26,Clothing,19,452.74,8602.06
+East,Store_8,2021-07-16,Toys,14,87.52,1225.28
+East,Store_9,2020-01-21,Home & Kitchen,11,121.86,1340.46
+East,Store_2,2021-08-17,Home & Kitchen,14,339.47,4752.58
+East,Store_11,2021-08-25,Home & Kitchen,11,82.26,904.86
+East,Store_18,2020-12-12,Home & Kitchen,8,12.0,96.0
+East,Store_13,2020-07-22,Electronics,12,359.9,4318.799999999999
+East,Store_6,2021-11-08,Toys,10,497.09,4970.9
+East,Store_6,2020-09-03,Home & Kitchen,3,200.09,600.27
+East,Store_17,2020-04-10,Electronics,10,335.64,3356.4
+East,Store_3,2020-11-11,Sports,3,48.08,144.24
+East,Store_1,2021-02-14,Clothing,9,139.8,1258.2
+East,Store_18,2020-09-14,Electronics,11,178.58,1964.38
+East,Store_12,2020-09-07,Toys,17,17.92,304.64000000000004
+East,Store_6,2021-02-23,Clothing,5,352.55,1762.75
+East,Store_11,2021-09-08,Sports,1,196.09,196.09
+East,Store_9,2020-11-14,Sports,10,282.09,2820.9
+East,Store_19,2020-10-22,Electronics,17,482.16,8196.720000000001
+East,Store_3,2020-10-19,Clothing,1,339.71,339.71
+East,Store_10,2021-03-23,Clothing,19,39.65,753.35
+East,Store_14,2020-03-20,Clothing,11,231.43,2545.73
+East,Store_13,2020-01-30,Sports,16,421.67,6746.72
+East,Store_3,2020-09-25,Home & Kitchen,12,289.59,3475.08
+East,Store_8,2021-02-11,Electronics,19,72.3,1373.7
+East,Store_3,2020-02-21,Sports,16,429.06,6864.96
+East,Store_13,2021-02-26,Home & Kitchen,7,445.54,3118.78
+East,Store_17,2020-07-16,Clothing,14,133.27,1865.78
+East,Store_12,2021-02-02,Electronics,16,24.68,394.88
+East,Store_7,2021-07-27,Clothing,14,52.82,739.48
+East,Store_11,2021-11-14,Clothing,5,409.7,2048.5
+East,Store_12,2020-12-26,Electronics,14,334.45,4682.3
+East,Store_13,2020-03-24,Sports,11,389.56,4285.16
+East,Store_13,2021-03-11,Electronics,16,276.85,4429.6
+East,Store_15,2021-10-07,Electronics,8,151.32,1210.56
+East,Store_15,2021-12-09,Clothing,3,371.78,1115.34
+East,Store_16,2021-08-16,Sports,7,470.35,3292.4500000000003
+East,Store_4,2020-04-03,Home & Kitchen,5,80.68,403.4
+East,Store_18,2020-07-21,Toys,9,246.66,2219.94
+East,Store_6,2020-10-23,Sports,9,239.76,2157.84
+East,Store_11,2021-11-29,Home & Kitchen,19,243.44,4625.36
+East,Store_19,2021-05-07,Clothing,15,388.93,5833.95
+East,Store_8,2020-05-10,Clothing,18,198.31,3569.58
+East,Store_12,2021-03-10,Sports,5,376.28,1881.4
+East,Store_16,2021-11-14,Electronics,4,402.39,1609.56
+East,Store_8,2020-09-02,Electronics,14,407.01,5698.139999999999
+East,Store_9,2021-05-06,Clothing,19,61.93,1176.67
+East,Store_13,2020-08-06,Home & Kitchen,8,393.87,3150.96
+East,Store_7,2021-06-07,Electronics,8,424.87,3398.96
+East,Store_15,2020-12-21,Sports,1,198.64,198.64
+East,Store_11,2021-07-10,Sports,12,409.7,4916.4
+East,Store_20,2020-02-20,Sports,8,251.11,2008.88
+East,Store_4,2021-06-06,Sports,12,36.13,433.56000000000006
+East,Store_6,2021-04-28,Sports,17,133.74,2273.58
+East,Store_4,2021-08-17,Electronics,3,465.82,1397.46
+East,Store_5,2021-09-04,Toys,4,184.7,738.8
+East,Store_13,2021-12-13,Electronics,8,72.37,578.96
+East,Store_2,2020-04-01,Clothing,16,92.52,1480.32
+East,Store_3,2021-05-18,Clothing,4,432.79,1731.16
+East,Store_8,2021-06-04,Sports,12,296.56,3558.7200000000003
+East,Store_2,2021-02-12,Electronics,12,242.75,2913.0
+East,Store_13,2020-05-15,Electronics,16,188.9,3022.4
+East,Store_8,2021-02-13,Sports,9,277.92,2501.28
+East,Store_6,2020-06-20,Home & Kitchen,4,239.78,959.12
+East,Store_3,2021-10-26,Electronics,19,187.0,3553.0
+East,Store_18,2021-08-30,Toys,7,383.99,2687.9300000000003
+East,Store_9,2021-03-30,Toys,6,133.94,803.64
+East,Store_5,2021-03-07,Home & Kitchen,8,385.08,3080.64
+East,Store_10,2021-06-27,Home & Kitchen,19,150.92,2867.48
+East,Store_12,2020-06-18,Home & Kitchen,17,221.35,3762.95
+East,Store_20,2021-01-31,Clothing,3,296.52,889.56
+East,Store_6,2021-05-04,Sports,19,162.69,3091.11
+East,Store_10,2021-05-21,Sports,1,59.53,59.53
+East,Store_12,2020-01-10,Clothing,19,266.43,5062.17
+East,Store_20,2021-09-29,Home & Kitchen,15,15.6,234.0
+East,Store_12,2021-09-22,Clothing,12,402.29,4827.4800000000005
+East,Store_12,2020-05-12,Home & Kitchen,8,54.0,432.0
+East,Store_20,2020-11-21,Toys,6,34.87,209.22
+East,Store_16,2020-07-11,Home & Kitchen,18,207.5,3735.0
+East,Store_7,2021-09-21,Clothing,13,400.47,5206.110000000001
+East,Store_19,2020-12-06,Clothing,6,75.77,454.62
+East,Store_20,2021-06-23,Electronics,17,78.75,1338.75
+East,Store_14,2020-03-31,Sports,16,467.93,7486.88
+East,Store_9,2021-07-05,Clothing,12,473.08,5676.96
+East,Store_12,2020-03-19,Toys,15,497.45,7461.75
+East,Store_1,2020-12-08,Clothing,7,179.56,1256.92
+East,Store_13,2020-12-19,Clothing,14,489.39,6851.46
+East,Store_3,2021-05-19,Sports,5,111.59,557.95
+East,Store_5,2020-07-20,Toys,4,183.27,733.08
+East,Store_1,2021-05-14,Electronics,19,351.67,6681.7300000000005
+East,Store_9,2020-06-26,Clothing,6,498.24,2989.44
+East,Store_6,2020-05-28,Sports,19,112.36,2134.84
+East,Store_20,2020-05-03,Toys,7,81.3,569.1
+East,Store_16,2021-05-30,Electronics,2,18.64,37.28
+East,Store_12,2021-09-19,Clothing,19,6.64,126.16
+East,Store_2,2020-03-16,Sports,1,40.8,40.8
+East,Store_14,2020-12-12,Electronics,1,142.55,142.55
+East,Store_10,2020-09-19,Clothing,1,266.28,266.28
+East,Store_16,2021-08-02,Home & Kitchen,16,315.13,5042.08
+East,Store_19,2021-01-05,Clothing,19,355.71,6758.49
+East,Store_11,2020-07-02,Sports,18,229.48,4130.639999999999
+East,Store_6,2020-02-24,Home & Kitchen,16,454.1,7265.6
+East,Store_17,2021-04-06,Toys,8,49.68,397.44
+East,Store_17,2021-12-09,Electronics,12,349.36,4192.32
+East,Store_2,2021-06-23,Sports,2,381.38,762.76
+East,Store_1,2021-04-23,Sports,2,186.42,372.84
+East,Store_6,2021-06-22,Sports,5,305.46,1527.3
+East,Store_4,2021-08-04,Toys,14,286.41,4009.74
+East,Store_14,2020-12-04,Toys,17,413.8,7034.6
+East,Store_16,2020-11-05,Toys,11,354.93,3904.23
