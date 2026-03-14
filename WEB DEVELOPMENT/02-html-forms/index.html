@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Forms</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Sign Up</h2>
+        <form>
+            <!-- Text Input -->
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" placeholder="John" required>
+
+            <!-- Email Input -->
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" placeholder="john@example.com" required>
+
+            <!-- Password Input -->
+            <label for="pass">Password:</label>
+            <input type="password" id="pass" minlength="8" required>
+
+            <!-- Dropdown Menu -->
+            <label for="role">Role:</label>
+            <select id="role">
+                <option value="student">Student</option>
+                <option value="dev">Developer</option>
+                <option value="designer">Designer</option>
+            </select>
+
+            <button type="submit">Create Account</button>
+        </form>
+    </div>
+
+</body>
+</html>
