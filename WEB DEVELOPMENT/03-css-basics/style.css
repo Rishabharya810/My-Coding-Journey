@@ -1,0 +1,30 @@
+/* Element Selector: Targets all <body> tags */
+body {
+    font-family: 'Roboto', sans-serif; /* Custom Font */
+    background-color: #eef2f3;
+    color: #333;
+    padding: 20px;
+}
+
+/* ID Selector: Starts with #. Unique to one element. */
+#main-heading {
+    color: #8e44ad; /* Purple */
+    text-decoration: underline;
+    text-align: center;
+}
+
+/* Class Selector: Starts with . (dot). Reusable. */
+.intro-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c3e50; /* Dark Blue */
+    background-color: white;
+    padding: 15px;
+    border-left: 5px solid #8e44ad;
+}
+
+.highlight {
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+}
