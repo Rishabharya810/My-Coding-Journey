@@ -1,0 +1,32 @@
+/* Styling to help visualize the blocks */
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #d1e8e2; /* Light Teal */
+    padding: 20px;
+    border-bottom: 2px solid #116466;
+}
+
+nav a {
+    margin-right: 15px;
+    color: #116466;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    background-color: #fff1e1; /* Light Orange */
+    padding: 20px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #2c3531; /* Dark Grey */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
