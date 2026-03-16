@@ -1,0 +1,138 @@
+/* 1. Global Page Settings */
+body {
+    background-color: #525659;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.3;
+}
+
+/* 2. The Paper Container - Set to A4 Size */
+.resume-paper {
+    background-color: white;
+    /* A4 Width */
+    width: 210mm;
+    /* Minimum height for A4 */
+    min-height: 297mm; 
+    padding: 40px 50px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    color: #000;
+    box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
+/* 3. Header Styling */
+header {
+    text-align: center;
+    margin-bottom: 25px;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.contact-info {
+    margin: 8px 0 0 0;
+    font-size: 15px;
+}
+
+.contact-info a {
+    color: black;
+    text-decoration: none;
+}
+
+/* 4. Column Layout (50% Split) */
+.content-wrap {
+    display: flex;
+    gap: 30px;
+}
+
+.left-col {
+    width: 50%;
+}
+
+.right-col {
+    width: 50%;
+}
+
+/* 5. Headings */
+h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    letter-spacing: 0.5px;
+}
+
+/* 
+   ALIGNMENT FIX:
+   Remove top margin from the very first element of both columns
+   so they align perfectly at the top line.
+*/
+.left-col section:first-child h2 {
+    margin-top: 0;
+}
+
+.right-col section:first-child .entry-header {
+    margin-top: 0;
+}
+
+/* 6. Typography */
+p, li, div {
+    font-size: 14px;
+}
+
+/* 7. Entry Headers */
+.entry {
+    margin-bottom: 12px;
+}
+
+.entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2px;
+}
+
+.entry-header .title {
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.entry-header .date {
+    font-weight: normal;
+    text-align: right;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+/* 8. Right Column Blocks */
+.right-block {
+    margin-bottom: 10px;
+}
+
+/* 9. List Styling */
+ul {
+    margin: 2px 0 10px 0;
+    padding-left: 18px;
+}
+
+li {
+    margin-bottom: 2px;
+}
+
+.compact-list {
+    padding-left: 15px;
+}
+
+strong {
+    font-weight: bold;
+}
