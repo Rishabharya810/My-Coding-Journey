@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Passenger Counter</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="page">
+    <main>
+      <h1>Passenger Counter Website</h1>
+
+      <!-- Counter Display -->
+      <h2 id="counter-el">0</h2>
+
+      <!-- Buttons -->
+      <div class="button-group">
+        <button id="increment-btn" onclick="incrementCounter()">Increment</button>
+        <button id="decrement-btn" onclick="decrementCounter()">Decrement</button>
+        <button id="save-btn" onclick="saveCount()">Save</button>
+        <button id="reset-btn" onclick="resetCount()">Reset</button>
+        <button id="reset-save-btn" onclick="resetSave()">Reset Save</button>
+      </div>
+
+      <!-- Saved Count Display -->
+      <p>Saved Count: <span id="save-el"></span></p>
+    </main>
+
+    <footer>
+      &copy; Copyright 2025
+    </footer>
+  </div>
+</body>
+</html>
