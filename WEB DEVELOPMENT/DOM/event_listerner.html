@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Listeners Demo</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        #interaction-box {
+            width: 200px;
+            height: 200px;
+            background-color: #3498db; /* Blue */
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 10px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Interact with the box below</h3>
+    <div id="interaction-box">Hover Over Me</div>
+
+    <script>
+        const box = document.getElementById("interaction-box");
+
+        // 1. Mouse Enter
+        box.addEventListener("mouseenter", function() {
+            box.innerText = "Now Click Me";
+            box.style.backgroundColor = "#2ecc71"; // Green
+        });
+
+        // 2. Click (Single)
+        box.addEventListener("click", function() {
+            box.innerText = "Double Click Me!";
+            box.style.backgroundColor = "#e67e22"; // Orange
+            box.style.transform = "scale(1.1)";
+        });
+
+        // 3. Double Click
+        box.addEventListener("dblclick", function() {
+            box.innerText = "Done!";
+            box.style.backgroundColor = "#e74c3c"; // Red
+            box.style.transform = "rotate(10deg)";
+        });
+
+        // Reset on Mouse Leave
+        box.addEventListener("mouseleave", function() {
+            box.innerText = "Hover Over Me";
+            box.style.backgroundColor = "#3498db"; // Back to Blue
+            box.style.transform = "scale(1) rotate(0deg)";
+        });
+    </script>
+</body>
+</html>

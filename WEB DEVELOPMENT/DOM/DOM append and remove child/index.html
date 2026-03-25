@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Append & Remove</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        ul { border: 1px solid #ccc; padding: 20px; }
+        li { margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+
+    <h2>Shopping List</h2>
+    <button onclick="addFruit()">Add Apple</button>
+    <button onclick="removeFruit()">Remove Last Item</button>
+
+    <ul id="fruit-list">
+        <li>Banana (Existing)</li>
+        <li>Orange (Existing)</li>
+    </ul>
+
+    <script>
+        function addFruit() {
+            // 1. Find the parent element using ID
+            var list = document.getElementById("fruit-list");
+
+            // 2. Create a new element
+            var newItem = document.createElement("li");
+            newItem.innerText = "Apple (New)";
+
+            // 3. Update the DOM by appending the new child
+            list.appendChild(newItem);
+        }
+
+        function removeFruit() {
+            var list = document.getElementById("fruit-list");
+
+            // Check if there are elements to remove
+            if (list.lastElementChild) {
+                // 4. Update the DOM by removing the last child
+                list.removeChild(list.lastElementChild);
+            } else {
+                alert("The list is empty!");
+            }
+        }
+    </script>
+</body>
+</html>
