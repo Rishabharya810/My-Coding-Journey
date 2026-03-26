@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cards & Pseudo-classes Demo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        Header
+        <nav>
+            <h2><a href="#">Home</a></h2>
+            <h2><a href="#">About</a></h2>
+            <h2><a href="#">Contact</a></h2>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Interactive Card Examples</h1>
+        
+        <section class="cards-container">
+            <!-- Feature Card -->
+            <div class="card">
+                <img src="https://picsum.photos/300/200" alt="Feature Image">
+                <h3>Feature Card</h3>
+                <p>Hover over this card to see transform effects!</p>
+                <button class="card-btn">Learn More</button>
+            </div>
+
+            <!-- Info Card -->
+            <div class="card">
+                <div class="card-icon">🎯</div>
+                <h3>Info Card</h3>
+                <p>Click this card to see active state changes.</p>
+                <button class="card-btn">Details</button>
+            </div>
+
+            <!-- Product Card -->
+            <div class="card product-card">
+                <img src="https://picsum.photos/300/200?random=2" alt="Product Image">
+                <h3>Product Card</h3>
+                <p class="price">$99.99</p>
+                <button class="card-btn">Add to Cart</button>
+            </div>
+        </section>
+
+        <section class="cards-container">
+            <!-- Service Cards -->
+            <div class="card service-card">
+                <div class="card-icon">⚡</div>
+                <h3>Fast Service</h3>
+                <p>Lightning quick delivery to your doorstep</p>
+                <button class="card-btn">Get Started</button>
+            </div>
+
+            <div class="card service-card">
+                <div class="card-icon">🛡️</div>
+                <h3>Secure Process</h3>
+                <p>Your security is our top priority</p>
+                <button class="card-btn">Learn More</button>
+            </div>
+
+            <div class="card service-card">
+                <div class="card-icon">💎</div>
+                <h3>Premium Quality</h3>
+                <p>Only the best for our customers</p>
+                <button class="card-btn">View Plans</button>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        Footer  
+        <p>&copy; 2025 Media Queries Example</p>
+    </footer>
+</body>
+</html>
