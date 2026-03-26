@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4faff;
+  }
+  
+  .navbar {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .logo span {
+    color: #00baf2;
+  }
+  
+  .navbar nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .signin-btn {
+    background-color: #0033ff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .booking-section {
+    padding: 30px;
+    background-color: #e6f3f9;
+  }
+  
+  .booking-card {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .tabs {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .tabs button {
+    padding: 10px 15px;
+    border: none;
+    background: #f0f0f0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .tabs .active {
+    background: #00baf2;
+    color: white;
+  }
+  
+  .form-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  
+  input[type="text"],
+  input[type="date"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-btn {
+    background: #00baf2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .banners {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: #fff;
+  }
+  
+  .banner {
+    background-color: #ffe680;
+    padding: 20px;
+    border-radius: 10px;
+    width: 45%;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .services {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    background: #fff;
+  }
+  
+  .service-box {
+    background: #f0f7ff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+  }
+  
+  .service-box h3 {
+    margin-top: 0;
+  }
+  
+  .service-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .service-box ul li {
+    margin: 8px 0;
+  }
+  

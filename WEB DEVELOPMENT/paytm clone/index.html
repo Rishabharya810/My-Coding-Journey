@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Paytm Flight Booking</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">paytm <span>UPI</span></div>
+    <nav>
+      <a href="#">Ticket Booking</a>
+      <a href="#">Recharge & Bills</a>
+      <a href="#">Payments & Services</a>
+      <a href="#">Paytm for Business</a>
+      <a href="#">Company</a>
+    </nav>
+    <button class="signin-btn">Sign In</button>
+  </header>
+
+  <section class="booking-section">
+    <div class="booking-card">
+      <div class="tabs">
+        <button class="active">Flights</button>
+        <button>Bus</button>
+        <button>Trains</button>
+        <button>Intl. Flights</button>
+      </div>
+
+      <div class="form">
+        <div class="trip-options">
+          <label><input type="radio" name="trip" checked> One Way</label>
+          <label><input type="radio" name="trip"> Round Trip</label>
+        </div>
+
+        <div class="form-row">
+          <input type="text" placeholder="From: Delhi (DEL)" />
+          <input type="text" placeholder="To: Mumbai (BOM)" />
+          <input type="date" value="2025-04-15"/>
+        </div>
+
+        <div class="form-row">
+          <button class="btn search-btn">Search Flights</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="banners">
+    <div class="banner">Fly into summer with Flat 15% Off</div>
+    <div class="banner">Smart Travel Starts Here</div>
+  </section>
+
+  <section class="services">
+    <div class="service-box">
+      <h3>Recharges</h3>
+      <ul>
+        <li>Mobile Recharge</li>
+        <li>DTH Recharge</li>
+        <li>FastTag Recharge</li>
+      </ul>
+    </div>
+
+    <div class="service-box">
+      <h3>Bill Payments</h3>
+      <ul>
+        <li>Credit Card Payment</li>
+        <li>Electricity Bill</li>
+        <li>Broadband Bill</li>
+      </ul>
+    </div>
+  </section>
+</body>
+</html>
