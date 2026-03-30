@@ -1,0 +1,104 @@
+/* .unifrakturcook-bold {
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+} */
+
+
+.heading{
+    font-family: "UnifrakturCook", cursive;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    font-size: 80px;
+}
+
+.heading:hover {
+    color: grey;              
+}
+
+.nav-links {
+    display: flex;           
+    justify-content: center; 
+    list-style: none;        
+    gap: 30px;               
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: grey;              
+}
+.navbar a {
+    text-decoration: none;       
+    color: black;               
+    font-family: "Saira Stencil One", sans-serif; 
+    font-size: 30px;
+}
+
+.navbar {
+    font-family: "Saira Stencil One", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+    text-decoration: none;
+}
+
+.video-container {
+    /* This pushes the video down away from the nav */
+    margin-top: 50px; 
+    text-align: center;
+
+}
+
+.form-group, .submit-button, .footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: "saira stencil one", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    gap: 20px;
+    padding: 1px;
+    font-size: 20px;
+}
+
+.submit-button {
+    cursor: pointer;
+    font-family: "saira stencil one", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 5px;
+    padding: 5px 12px;
+    font-size: 18px;
+    border-color: grey;
+
+}
+.submit-button:hover {
+    background-color: lightgrey;
+    color: white;
+    border-color: lightgrey;
+}
+
+body :hover {
+    color: grey;              
+}
+
+body {
+
+    background-image: url('https://images.unsplash.com/photo-1586076100131-32505c71d0d2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0; 
+    /* box-shadow: 0px 0px 15px 5px white; */
+}
