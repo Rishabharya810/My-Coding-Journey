@@ -1,0 +1,28 @@
+body {
+    background-color: #dcdcdc; /* Grey background to see margins */
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.box {
+    background-color: white;
+    width: 300px;
+    text-align: center;
+}
+
+/* Demonstrating Padding */
+.box-1 {
+    padding: 50px; /* Pushes content away from the edge */
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+/* Demonstrating Border and Margin */
+.box-2 {
+    padding: 10px;
+    
+    border: 10px solid #e74c3c; /* Thick Red Border */
+    
+    margin-left: 50px; /* Pushes the box to the right */
+    margin-top: 50px;  /* Pushes the box down from Box 1 */
+}
