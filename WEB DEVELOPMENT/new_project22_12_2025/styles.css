@@ -1,0 +1,25 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+.grid-item {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+}
+.grid-item:hover {
+    background-color: #e0e0e0;
+}
+
+.grid-item.item4 {
+    grid-row-start: 1;
+    grid-row-end: 4;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
